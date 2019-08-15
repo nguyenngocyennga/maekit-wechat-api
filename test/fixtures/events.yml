@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  makerspace: one
+  title: MyString
+  location: MyString
+  date: 2019-08-14
+  time: 2019-08-14 11:16:05
+  description: MyText
+  event_photo: MyString
+
+two:
+  makerspace: two
+  title: MyString
+  location: MyString
+  date: 2019-08-14
+  time: 2019-08-14 11:16:05
+  description: MyText
+  event_photo: MyString

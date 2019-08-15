@@ -1,0 +1,2 @@
+class Makerspace < ApplicationRecord
+end

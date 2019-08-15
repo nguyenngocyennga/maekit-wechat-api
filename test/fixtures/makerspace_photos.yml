@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  makerspace: one
+  image_url: MyString
+  image_title: MyString
+
+two:
+  makerspace: two
+  image_url: MyString
+  image_title: MyString
