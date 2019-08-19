@@ -10,19 +10,19 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2019_08_14_082601) do
-  
+ActiveRecord::Schema.define(version: 2019_08_19_082151) do
+
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
-  
-  create_table "equipment", force: :cascade do |t|
+
+  create_table "equipments", force: :cascade do |t|
     t.string "name"
     t.text "description"
     t.string "photo_url"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
-  
+
   create_table "events", force: :cascade do |t|
     t.bigint "makerspace_id"
     t.string "title"
@@ -35,7 +35,7 @@ ActiveRecord::Schema.define(version: 2019_08_14_082601) do
     t.datetime "updated_at", null: false
     t.index ["makerspace_id"], name: "index_events_on_makerspace_id"
   end
-  
+
   create_table "makerspace_photos", force: :cascade do |t|
     t.bigint "makerspace_id"
     t.string "image_url"
@@ -44,7 +44,7 @@ ActiveRecord::Schema.define(version: 2019_08_14_082601) do
     t.datetime "updated_at", null: false
     t.index ["makerspace_id"], name: "index_makerspace_photos_on_makerspace_id"
   end
-  
+
   create_table "makerspaces", force: :cascade do |t|
     t.string "name"
     t.string "logo"
@@ -57,13 +57,13 @@ ActiveRecord::Schema.define(version: 2019_08_14_082601) do
     t.datetime "updated_at", null: false
     t.string "photo_url"
   end
-  
+
   create_table "materials", force: :cascade do |t|
     t.string "name"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
-  
+
   create_table "project_steps", force: :cascade do |t|
     t.string "photo_url"
     t.text "description"
@@ -74,7 +74,7 @@ ActiveRecord::Schema.define(version: 2019_08_14_082601) do
     t.string "title"
     t.index ["project_id"], name: "index_project_steps_on_project_id"
   end
-  
+
   create_table "projects", force: :cascade do |t|
     t.string "name"
     t.text "description"
@@ -85,7 +85,7 @@ ActiveRecord::Schema.define(version: 2019_08_14_082601) do
     t.string "photo_url"
     t.string "title"
   end
-  
+
   create_table "users", force: :cascade do |t|
     t.string "username"
     t.string "avatar_url"
@@ -95,7 +95,7 @@ ActiveRecord::Schema.define(version: 2019_08_14_082601) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
-  
+
   add_foreign_key "events", "makerspaces"
   add_foreign_key "makerspace_photos", "makerspaces"
   add_foreign_key "project_steps", "projects"
