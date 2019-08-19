@@ -7,9 +7,9 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 puts 'Cleaning database...'
-Makerspace.destroy_all
-Equipment.destroy_all
-Project.destroy_all
+# Makerspace.destroy_all
+# Equipment.destroy_all
+# Project.destroy_all
 
 makerspaces = [
   {
@@ -295,4 +295,4 @@ projects = [
   }
 ]
 
-Project.create!(projects)
+Project.create(projects)
