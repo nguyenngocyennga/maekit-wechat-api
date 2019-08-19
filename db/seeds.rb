@@ -14,7 +14,7 @@ Project.destroy_all
 makerspaces = [
   {
     "name": "KC Robot Lab",
-    "location": "Shanghai",
+    "location": "SHANGHAI",
     "address": "408-410 Bldg 4 3337 Hongmei Lu, near Huaguang Lu",
     "phone_number": "021-152 5195 0152",
     "description": "In just one year, KC Robot Lab has managed to amass over a hundred students, and offers courses in robotics, coding, laser cutting and 3D printing. Students from five to 16 years old learn the ins and outs of electronics, programming, engineering and more in the lab’s close-knit classrooms of no more than six students. The weekly classes are 1.5 hours per session, and though primarily taught in Mandarin, English-speaking tutors are available. Call to schedule a free trial class.",
@@ -22,7 +22,7 @@ makerspaces = [
   },
   {
     "name": "MOOCXING",
-    "location": "Shanghai",
+    "location": "SHANGHAI",
     "address": "14C Bldg 5 251 Caoxi Lu, near Longcao Lu",
     "phone_number": "021-400 873 7505",
     "description": "MOOCXING has been around since 2013 and focuses on robotics and programming for children seven to 18 years old. Students can learn coding languages like Python and C++, as well as gain experience working with 3D printers and robots. Class sizes are generally small and taught in Mandarin, though it’s possible to set up one-on-one classes in English depending on tutor availability. Call for price information or to schedule a 200RMB trial course.",
