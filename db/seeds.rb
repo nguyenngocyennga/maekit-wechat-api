@@ -18,7 +18,7 @@ makerspaces = [
     "address": "408-410 Bldg 4 3337 Hongmei Lu, near Huaguang Lu",
     "phone_number": "021-152 5195 0152",
     "description": "In just one year, KC Robot Lab has managed to amass over a hundred students, and offers courses in robotics, coding, laser cutting and 3D printing. Students from five to 16 years old learn the ins and outs of electronics, programming, engineering and more in the lab’s close-knit classrooms of no more than six students. The weekly classes are 1.5 hours per session, and though primarily taught in Mandarin, English-speaking tutors are available. Call to schedule a free trial class.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/1c53de2fffd74acc526c/makerspace_SWJTU%20Makerspace.jpg"
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/9a3731e4324024686b12/makerspace_KC%20Robot%20Lab.jpg"
   },
   {
     "name": "MOOCXING",
@@ -26,7 +26,7 @@ makerspaces = [
     "address": "14C Bldg 5 251 Caoxi Lu, near Longcao Lu",
     "phone_number": "021-400 873 7505",
     "description": "MOOCXING has been around since 2013 and focuses on robotics and programming for children seven to 18 years old. Students can learn coding languages like Python and C++, as well as gain experience working with 3D printers and robots. Class sizes are generally small and taught in Mandarin, though it’s possible to set up one-on-one classes in English depending on tutor availability. Call for price information or to schedule a 200RMB trial course.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/1c53de2fffd74acc526c/makerspace_SWJTU%20Makerspace.jpg"
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/b0207eafbf470fbc1b8d/makerspace_MOOCXING.jpg"
   },
   {
     "name": "Join-in Youth Creative Lab",
@@ -34,7 +34,7 @@ makerspaces = [
     "address": "1806 2669 Xietu Lu, near Tianyaoqiao Lu",
     "phone_number": "021-400 093 5090",
     "description": "Join-in works with children between three to 12 years old. Students can learn to program robots and other gadgets here. Class sizes are small, with around three to six students each, and one-on-one tutoring available. Weekly courses range from one to three hours depending on the student’s age and classes are taught in Chinese with English-speaking tutors subject to availability. Classes are around 9,600 per year. Call to set up a free trial.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/1c53de2fffd74acc526c/makerspace_SWJTU%20Makerspace.jpg"
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/d5e91e5a8390cb33f97b/makerspace_Join-in%20Youth%20Creative%20Lab.jpg"
   },
   {
     "name": "GAIA Space Center",
@@ -42,7 +42,7 @@ makerspaces = [
     "address": "147-149 Area 3 168 Shangnan Lu, near Guozhan Lu",
     "phone_number": "021-5041 1077",
     "description": "This makerspace’s classes are divided into three categories: ‘Baby Science’, basic science for three year olds; ‘Hands-on Science’, general science classes for children four to 12 years old and ‘Programming’, basic robot programming courses for children seven to 12 years old. GAIA also hosts birthday parties, weekend activities and summer/winter camps. The weekly bilingual classes come in a 48-week package, last one-and-a-half hours each and are generally around 14 students per class. Call for price details or to schedule a free trial class.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/1c53de2fffd74acc526c/makerspace_SWJTU%20Makerspace.jpg"
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/2698913ca923a5f3ac52/makerspace_GAIA%20Space%20Center.jpg"
   },
   {
     "name": "XMaker Innovation Center",
@@ -50,7 +50,7 @@ makerspaces = [
     "address": "Tongzilin South 6, Fangcaodi, block 7 unit 1 626",
     "phone_number": "WeChat ID: SWJTUyuhui",
     "description": "Maker Innovation Center is running by makers from intel-swjtu makercenter, West Makerspace and XMaker School.\n This is an open lab for local diyer/maker/hacker/engineer/researcher.\n We are running a \"codes to things\" course project to help people to learn how to fabricate things.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/1c53de2fffd74acc526c/makerspace_SWJTU%20Makerspace.jpg"
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/22d1a1b9b0d4da69c57f/makerspace_XMaker%20Innovation%20Center.jpg"
   },
   {
     "name": "SWJTU Makerspace",
@@ -66,7 +66,7 @@ makerspaces = [
     "address": "万瑞中心C座19楼 Wanrui Center, block C, 19th floor",
     "phone_number": "4001798315",
     "description": "This program is made for the young minds to create incubation center in their schools, colleges, institutes for long term learning.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/1c53de2fffd74acc526c/makerspace_SWJTU%20Makerspace.jpg"
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/5a3985bae9dd7d634ea3/makerspace_STEM%20Edu.jpg"
   },
   {
     "name": "Chai Huo X.factory",
@@ -74,11 +74,12 @@ makerspaces = [
     "address": "Dashierlu, wankeyun community, nanshang zone",
     "phone_number": "0755-8671703",
     "description": "Chaihuo Maker Space was created and sponsored by Seeed Studio. As the first maker space in Shenzhen, Chaihuo has gathered a lot of DIY enthusiasts and entreprenuers, including SZDIY, the Android-loving group. IOS Party, Microsoft Club, SZHAM and Amateur Radio Group.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/1c53de2fffd74acc526c/makerspace_SWJTU%20Makerspace.jpg"
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/de6d36d30771f98a609f/makerspace_Chai%20Huo%20X.factory.jpg"
   }
 ]
 
 Makerspace.create(makerspaces)
+puts 'Finish creating makerspace'
 
 equipments = [
   {
@@ -189,91 +190,14 @@ equipments = [
 ]
 
 Equipment.create(equipments)
+puts 'Finish creating equipments'
 
 projects = [
   {
-    "name": "Secret Light Up Ring",
-    "level": "INTERMEDIATE",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/c8b62f59c898bc9b1eaa/project_Sew%20LED%20Torch.png",
-    "description": "Discover electromagnets in everyday life with this inductive LED ring!"
-  },
-  {
-    "name": "Digital Bling\n",
+    "name": "Wired Up Stiationery",
     "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/c8b62f59c898bc9b1eaa/project_Sew%20LED%20Torch.png",
-    "description": "Adorn your body with electrifyingly awesome jewelry that you build yourself."
-  },
-  {
-    "name": "Cardboard Automata",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/c8b62f59c898bc9b1eaa/project_Sew%20LED%20Torch.png",
-    "description": "Explore mechanical elements such as cams, levers, and linkages to create your own moving sculpture."
-  },
-  {
-    "name": "Chain Reaction",
-    "level": "INTERMEDIATE",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/c8b62f59c898bc9b1eaa/project_Sew%20LED%20Torch.png",
-    "description": "Rube Goldberg-inspired cause and effect contraptions using everyday materials and found objects."
-  },
-  {
-    "name": "Light Painting",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/c8b62f59c898bc9b1eaa/project_Sew%20LED%20Torch.png",
-    "description": "Create striking images and illusions using nothing more than a camera, a light source, and a little practice."
-  },
-  {
-    "name": "Light Play",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/c8b62f59c898bc9b1eaa/project_Sew%20LED%20Torch.png",
-    "description": "Explore light, shadow, and motion using a variety of simple materials and light sources."
-  },
-  {
-    "name": "Marble Machines",
-    "level": "ADVANCED",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/c8b62f59c898bc9b1eaa/project_Sew%20LED%20Torch.png",
-    "description": "A Marble Machine is a creative ball-run contraption made from familiar materials."
-  },
-  {
-    "name": "Musical Bench",
-    "level": "ADVANCED",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/c8b62f59c898bc9b1eaa/project_Sew%20LED%20Torch.png",
-    "description": "This exhibit makes music when people touch, kiss, or hold hands."
-  },
-  {
-    "name": "Paper Circuits",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/c8b62f59c898bc9b1eaa/project_Sew%20LED%20Torch.png",
-    "description": "Make simple or complex electrical circuits on a flat piece of paper!"
-  },
-  {
-    "name": "Plastic Fusing",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/c8b62f59c898bc9b1eaa/project_Sew%20LED%20Torch.png",
-    "description": "Turn old plastic bags into beautiful new fabrics that you can use to make a variety of fashionable items."
-  },
-  {
-    "name": "Scribbling Machines",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/c8b62f59c898bc9b1eaa/project_Sew%20LED%20Torch.png",
-    "description": "Make a motorized contraption that moves in unusual ways and leaves a mark to trace its path."
-  },
-  {
-    "name": "Sewn Circuits",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/fb0db26e9006b708f37d/project_sewn_circuits_thumbnail.jpg",
-    "description": "Watch your friends’ eyes light up, as you light up the LED on your clothing just by wearing it!"
-  },
-  {
-    "name": "Squishy Circuits",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/97ec206bca3ef8a5254b/project_squishy_circuits_thumbnail.jpg",
-    "description": "Use homemade conductive and resistant play-doh to build electronic sculptures that light up, move, and make sounds."
-  },
-  {
-    "name": "Toy Take Apart",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/e42deed6cd0e59482ad5/project_toy_takeapart_thumbnail.jpg",
-    "description": "Do you ever wonder what’s inside your toys? You’ll make some exciting and surprising discoveries!"
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/32b58191a1748dea7bd4/project_Wired%20Up%20Stationery%20-%20Main%20Page.jpg",
+    "description": "Learn how to wire up simple circuits, with stationery."
   },
   {
     "name": "Wind Tubes",
@@ -282,17 +206,96 @@ projects = [
     "description": "Explore moving air, wind, and aerodynamics with a variety of everyday objects."
   },
   {
+    "name": "Toy Take Apart",
+    "level": "BEGINNER",
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/e42deed6cd0e59482ad5/project_toy_takeapart_thumbnail.jpg",
+    "description": "Do you ever wonder what’s inside your toys? You’ll make some exciting and surprising discoveries!"
+  },
+  {
+    "name": "Squishy Circuits",
+    "level": "BEGINNER",
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/97ec206bca3ef8a5254b/project_squishy_circuits_thumbnail.jpg",
+    "description": "Use homemade conductive and resistant play-doh to build electronic sculptures that light up, move, and make sounds."
+  },
+  {
+    "name": "Sewn Circuits",
+    "level": "BEGINNER",
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/fb0db26e9006b708f37d/project_sewn_circuits_thumbnail.jpg",
+    "description": "Watch your friends’ eyes light up, as you light up the LED on your clothing just by wearing it!"
+  },
+  {
     "name": "Sew LED Torch",
     "level": "BEGINNER",
     "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/c8b62f59c898bc9b1eaa/project_Sew%20LED%20Torch.png",
     "description": "Lights up after bedtime  with this Textile LED Torch Light."
   },
   {
-    "name": "Wired Up Stiationery",
+    "name": "Secret Light Up Ring",
+    "level": "INTERMEDIATE",
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/0e92a9ce21223e844ef5/project_LED%20Ring.png",
+    "description": "Discover electromagnets in everyday life with this inductive LED ring!"
+  },
+  {
+    "name": "Scribbling Machines",
     "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/32b58191a1748dea7bd4/project_Wired%20Up%20Stationery%20-%20Main%20Page.jpg",
-    "description": "Learn how to wire up simple circuits, with stationery."
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/ad4073a03e1dd8384dec/project_scribbling_machines_thumbnail.jpg",
+    "description": "Make a motorized contraption that moves in unusual ways and leaves a mark to trace its path."
+  },
+  {
+    "name": "Plastic Fusing",
+    "level": "BEGINNER",
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/46e688788c52686c97fd/project_plastic_fusing_thumbnail.jpg",
+    "description": "Turn old plastic bags into beautiful new fabrics that you can use to make a variety of fashionable items."
+  },
+  {
+    "name": "Paper Circuits",
+    "level": "BEGINNER",
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/3dcf0dae8c528ca49318/project_paper_circuit_thumbnail.jpg",
+    "description": "Make simple or complex electrical circuits on a flat piece of paper!"
+  },
+  {
+    "name": "Musical Bench",
+    "level": "ADVANCED",
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/4b6e99ef99046b4b7c0f/project_musical_bench_thumbnail.jpg",
+    "description": "This exhibit makes music when people touch, kiss, or hold hands."
+  },
+  {
+    "name": "Marble Machines",
+    "level": "ADVANCED",
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/adc392d1186c16689874/project_marble_machines_thumbnail.jpg",
+    "description": "A Marble Machine is a creative ball-run contraption made from familiar materials."
+  },
+  {
+    "name": "Light Play",
+    "level": "BEGINNER",
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/09b080a747d6de8aa19b/project_light_play_thumbnail.jpg",
+    "description": "Explore light, shadow, and motion using a variety of simple materials and light sources."
+  },
+  {
+    "name": "Light Painting",
+    "level": "BEGINNER",
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/76c463d0764e2b10635f/project_light_painting_thumbnail.jpg",
+    "description": "Create striking images and illusions using nothing more than a camera, a light source, and a little practice."
+  },
+  {
+    "name": "Digital Bling\n",
+    "level": "BEGINNER",
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/ad391b3dbe1baa66ffe6/project_digital_bling_thumbnail.jpg",
+    "description": "Adorn your body with electrifyingly awesome jewelry that you build yourself."
+  },
+  {
+    "name": "Chain Reaction",
+    "level": "INTERMEDIATE",
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/ceb75ab3de4cf3a7f84a/project_chain_reaction_thumbnail.jpg",
+    "description": "Rube Goldberg-inspired cause and effect contraptions using everyday materials and found objects."
+  },
+  {
+    "name": "Cardboard Automata",
+    "level": "BEGINNER",
+    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/fda1279de90dea3b1256/project_carboard_automata_thumbnail.jpg",
+    "description": "Explore mechanical elements such as cams, levers, and linkages to create your own moving sculpture."
   }
 ]
 
 Project.create(projects)
+puts 'Finish creating projects'
