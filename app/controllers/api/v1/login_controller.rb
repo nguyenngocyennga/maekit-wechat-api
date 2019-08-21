@@ -12,6 +12,8 @@ class Api::V1::LoginController < Api::V1::BaseController
     }
     @wechat_response ||= RestClient.get(URL, params: params_new)
     @wechat_user ||= JSON.parse(@wechat_response.body)
+    p @wechat_user
+    @wechat_user
   end
   
   def login
