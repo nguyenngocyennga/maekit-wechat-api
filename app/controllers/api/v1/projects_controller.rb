@@ -35,7 +35,7 @@ class Api::V1::ProjectsController < Api::V1::BaseController
   private
   
   def project_params
-    params.require(:project).permit(:name, :description, :preparation_time, :level, :photo_url)
+    params.require(:project).permit(:name, :description, :preparation_time, :level, :photo_url, :materials, :instructions)
   end
   
   def get_project
