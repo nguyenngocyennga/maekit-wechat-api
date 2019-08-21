@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  makerspace: one
+  project: one
+  name: MyString
+  phone_number: MyString
+  email: MyString
+  number_students: 1
+  from_date: MyString
+  to_date: 2019-08-21
+  about_kids: MyString
+  other_message: MyText
+
+two:
+  user: two
+  makerspace: two
+  project: two
+  name: MyString
+  phone_number: MyString
+  email: MyString
+  number_students: 1
+  from_date: MyString
+  to_date: 2019-08-21
+  about_kids: MyString
+  other_message: MyText

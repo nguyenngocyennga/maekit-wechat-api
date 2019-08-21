@@ -1,15 +1,15 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  username: MyString
-  avatar_url: MyString
-  latitude: MyString
-  longtitude: MyString
   open_id: 1
+  name: MyString
+  photo_url: MyString
+  phone_number: MyString
+  email: MyString
 
 two:
-  username: MyString
-  avatar_url: MyString
-  latitude: MyString
-  longtitude: MyString
   open_id: 1
+  name: MyString
+  photo_url: MyString
+  phone_number: MyString
+  email: MyString

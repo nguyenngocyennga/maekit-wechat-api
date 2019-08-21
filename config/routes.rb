@@ -1,8 +1,11 @@
 Rails.application.routes.draw do
   namespace :api, defaults: { format: :json } do
     namespace :v1 do
-      resources :makerspaces, only: [:index]
-      resources :equipments, only: [:index]
+      post '/login', to: 'login#login'
+      resources :bookings
+      resources :users
+      resources :makerspaces
+      resources :equipments
       resources :projects do
         resources :project_steps, shallow: true
       end
