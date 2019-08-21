@@ -1051,5 +1051,3 @@ project_steps = [
 
 ProjectStep.create(project_steps)
 puts 'Finish creating project steps'
-
-
