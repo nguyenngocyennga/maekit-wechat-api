@@ -14,19 +14,23 @@ Project.destroy_all
 makerspaces = [
   {
     "name": "KC Robot Lab",
-    "location": "SHANGHAI",
+    "location": "Shanghai",
     "address": "408-410 Bldg 4 3337 Hongmei Lu, near Huaguang Lu",
     "phone_number": "021-152 5195 0152",
     "description": "In just one year, KC Robot Lab has managed to amass over a hundred students, and offers courses in robotics, coding, laser cutting and 3D printing. Students from five to 16 years old learn the ins and outs of electronics, programming, engineering and more in the lab’s close-knit classrooms of no more than six students. The weekly classes are 1.5 hours per session, and though primarily taught in Mandarin, English-speaking tutors are available. Call to schedule a free trial class.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/9a3731e4324024686b12/makerspace_KC%20Robot%20Lab.jpg"
+    "longtitude": 31.19613,
+    "latitude": 121.39124,
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/fd48cbf76dabf4384d3a/makerspace_KC%20Robot%20Lab.jpg"
   },
   {
     "name": "MOOCXING",
-    "location": "SHANGHAI",
+    "location": "Shanghai",
     "address": "14C Bldg 5 251 Caoxi Lu, near Longcao Lu",
     "phone_number": "021-400 873 7505",
     "description": "MOOCXING has been around since 2013 and focuses on robotics and programming for children seven to 18 years old. Students can learn coding languages like Python and C++, as well as gain experience working with 3D printers and robots. Class sizes are generally small and taught in Mandarin, though it’s possible to set up one-on-one classes in English depending on tutor availability. Call for price information or to schedule a 200RMB trial course.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/b0207eafbf470fbc1b8d/makerspace_MOOCXING.jpg"
+    "longtitude": 31.3051,
+    "latitude": 121.52642,
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/19ed2fc0cbead32af825/makerspace_MOOCXING.jpg"
   },
   {
     "name": "Join-in Youth Creative Lab",
@@ -34,7 +38,9 @@ makerspaces = [
     "address": "1806 2669 Xietu Lu, near Tianyaoqiao Lu",
     "phone_number": "021-400 093 5090",
     "description": "Join-in works with children between three to 12 years old. Students can learn to program robots and other gadgets here. Class sizes are small, with around three to six students each, and one-on-one tutoring available. Weekly courses range from one to three hours depending on the student’s age and classes are taught in Chinese with English-speaking tutors subject to availability. Classes are around 9,600 per year. Call to set up a free trial.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/d5e91e5a8390cb33f97b/makerspace_Join-in%20Youth%20Creative%20Lab.jpg"
+    "longtitude": 31.1922,
+    "latitude": 121.44872,
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/a35b0f0881776a788359/makerspace_Join-in%20Youth%20Creative%20Lab.jpg"
   },
   {
     "name": "GAIA Space Center",
@@ -42,15 +48,19 @@ makerspaces = [
     "address": "147-149 Area 3 168 Shangnan Lu, near Guozhan Lu",
     "phone_number": "021-5041 1077",
     "description": "This makerspace’s classes are divided into three categories: ‘Baby Science’, basic science for three year olds; ‘Hands-on Science’, general science classes for children four to 12 years old and ‘Programming’, basic robot programming courses for children seven to 12 years old. GAIA also hosts birthday parties, weekend activities and summer/winter camps. The weekly bilingual classes come in a 48-week package, last one-and-a-half hours each and are generally around 14 students per class. Call for price details or to schedule a free trial class.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/2698913ca923a5f3ac52/makerspace_GAIA%20Space%20Center.jpg"
+    "longtitude": 31.18852,
+    "latitude": 121.49965,
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/c76f57dc394dcc102645/makerspace_GAIA%20Space%20Center.jpg"
   },
   {
     "name": "XMaker Innovation Center",
     "location": "CHENGDU",
     "address": "Tongzilin South 6, Fangcaodi, block 7 unit 1 626",
-    "phone_number": "WeChat ID: SWJTUyuhui",
+    "phone_number": "028-69332553",
     "description": "Maker Innovation Center is running by makers from intel-swjtu makercenter, West Makerspace and XMaker School.\n This is an open lab for local diyer/maker/hacker/engineer/researcher.\n We are running a \"codes to things\" course project to help people to learn how to fabricate things.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/22d1a1b9b0d4da69c57f/makerspace_XMaker%20Innovation%20Center.jpg"
+    "longtitude": 30.6189,
+    "latitude": 104.07139,
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/338608036c80c08976f5/makerspace_XMaker%20Innovation%20Center.jpg"
   },
   {
     "name": "SWJTU Makerspace",
@@ -58,7 +68,9 @@ makerspaces = [
     "address": "4/F, block C, 144 Jiaoda Road, Jinniu District",
     "phone_number": "028-87601498",
     "description": "The SWJTU Makerspace is the first university makerspace in western China. It focuses on the industries regarding mechanical and electrical information, robotics, the Internet of Things, intelligent hardware, artificial intelligence and energy conservation.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/1c53de2fffd74acc526c/makerspace_SWJTU%20Makerspace.jpg"
+    "longtitude": 30.69809,
+    "latitude": 104.03139,
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/ded975da3c1bde269f3b/makerspace_SWJTU%20Makerspace.jpg"
   },
   {
     "name": "STEM Edu",
@@ -66,7 +78,9 @@ makerspaces = [
     "address": "万瑞中心C座19楼 Wanrui Center, block C, 19th floor",
     "phone_number": "4001798315",
     "description": "This program is made for the young minds to create incubation center in their schools, colleges, institutes for long term learning.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/5a3985bae9dd7d634ea3/makerspace_STEM%20Edu.jpg"
+    "longtitude": 30.62161,
+    "latitude": 104.07797,
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/97963c5accd46adeaac0/makerspace_STEM%20Edu.jpg"
   },
   {
     "name": "Chai Huo X.factory",
@@ -74,7 +88,9 @@ makerspaces = [
     "address": "Dashierlu, wankeyun community, nanshang zone",
     "phone_number": "0755-8671703",
     "description": "Chaihuo Maker Space was created and sponsored by Seeed Studio. As the first maker space in Shenzhen, Chaihuo has gathered a lot of DIY enthusiasts and entreprenuers, including SZDIY, the Android-loving group. IOS Party, Microsoft Club, SZHAM and Amateur Radio Group.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/de6d36d30771f98a609f/makerspace_Chai%20Huo%20X.factory.jpg"
+    "longtitude": 22.54613,
+    "latitude": 113.99932,
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/da234e89760bf0881bb3/makerspace_Chai%20Huo%20X.factory.jpg"
   }
 ]
 
@@ -85,107 +101,107 @@ equipments = [
   {
     "name": "Impulse Sealer",
     "description": "Equipment that can be used to create water-tight seals on TPU Nylon fabric and similar materials",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/4ca1012647532ec62c59/equipment_image1.jpeg"
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/98bd1ba15a7ddab5a64f/equipment_image1.jpeg",
+    "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/c2e879ce0bec2befeee3/equipment_vid_Manual%20Impulse%20Sealer.mp4",
+    "author": "Blue Heeler's Model & Toy Steam Engine Room"
   },
   {
     "name": "Shear Press, Brake and Slip Roll",
     "description": "Used to bend, cut, curve, etc. sheet metal",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/b6acff7484b79e8b3f81/equipment_image2.jpeg"
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/0d6e5b1106b5a6c68558/equipment_image2.jpeg",
+    "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/051ada306b6ca7afa53b/equipment_vid_3%20in%201%20Shear%2C%20Press%20brake%20Slip%20Roll.mp4",
+    "author": "Technopack Corporation"
   },
   {
     "name": "StrataSys 3D Printers",
     "description": "Prints out modeled parts designs from STL files",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/d05a1366b713465eb2cd/equipment_image3.jpeg"
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/8c00b6e2557a8e913394/equipment_image3.jpeg",
+    "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/8820227564ec10549c84/equipment_vid_Stratasys%203D%20Printers.mp4",
+    "author": "\nCimquest"
   },
   {
     "name": "Photo Booth",
     "description": "Can be set up to take pictures of student projects at various stages",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/bfcda04cee518ae94c91/equipment_image4.jpeg"
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/10515611d5044a8785ac/equipment_image4.jpeg",
+    "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/516879fa51a083d3d68b/equipment_vid_Photo%20booth.mp4",
+    "author": "Mark Draper\n"
   },
   {
     "name": "Sewing Machine",
     "description": "Industrial grade sewing machine capable of sewing through tough materials",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/cebcbff37ae3070f69e4/equipment_image5.jpeg"
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/d702e68fa116d613301a/equipment_image5.jpeg",
+    "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/8d3b7fe1244283be468a/equipment_vid_sewing%20machine.mp4",
+    "author": "GoldStarTool\n"
   },
   {
     "name": "Drill Press",
     "description": "Makes holes through all types of wood and some thin sheets of metal",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/7c52ab82c08e6389a23e/equipment_image6.jpeg"
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/e2b57a060df5607fa9b1/equipment_image6.jpeg",
+    "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/0541cf0ac60a3f77504d/equipment_vid_Drill%20Press.mp4",
+    "author": "WoodWorkWeb\n"
   },
   {
     "name": "Power Drills",
     "description": "Hand drills which can also be used for securing and undoing screws",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/24eef63bb46c4a3bbfc8/equipment_image7.jpeg"
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/6a04d5202a1fe13c2de4/equipment_image7.jpeg",
+    "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/491aa6a343c3dc8e6331/equipment_vid_Power%20drill.mp4",
+    "author": "\nApril Wilkerson\n"
   },
   {
     "name": "AC/DC Power Supplies",
     "description": "Energy sources for DC voltages and currents",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/c3ebda9df0f1483a9187/equipment_image8.jpeg"
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/886e48c732dbc4e6804b/equipment_image8.jpeg",
+    "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/58bb0bd86567999412d2/equipment_vid_Power%20Supply.mp4",
+    "author": "\nSparkFun Electronics\n"
   },
   {
     "name": "Oscilloscopes",
     "description": "Observe waveforms created by electrical signals",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/cbea2f3da8b5f178ae7c/equipment_image10.jpeg"
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/f64d6c09d3e507bd3d72/equipment_image10.jpeg",
+    "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/577c2af7f8e1680a4734/equipment_vid_Oscilloscope.mp4",
+    "author": "\nSparkFun Electronics\n"
   },
   {
     "name": "Soldering Iron",
     "description": "For basic solder work",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/e4454273d8ec9ccacbca/equipment_image11.jpeg"
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/576982b908ae34babc25/equipment_image11.jpeg",
+    "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/91d1cba62491478f6f8a/equipment_vid_Soldering%20Iron.mp4",
+    "author": "\nEllie Jay\n"
   },
   {
     "name": "Function Generators",
     "description": "Generates common electrical waveforms over a range of frequencies",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/cce89d8d98f7fec2dfa0/equipment_image12.jpeg"
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/3f041f92e916e0b3ef19/equipment_image12.jpeg",
+    "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/aee2332c892b3caef678/equipment_vid_Function%20Generator.mp4",
+    "author": "Afrotechmods\n"
   },
   {
     "name": "Helping Arms",
     "description": "Facilitates work with small components. E.g. mini circuit boards",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/d13150837ad310f3f0b9/equipment_image13.jpeg"
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/e955cb6f6ebc4f423a29/equipment_image13.jpeg",
+    "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/ad9c2b3a9c5277127a6d/equipment_vid_Helping%20Hands.mp4",
+    "author": "Banggood video\n"
   },
   {
     "name": "Heat Gun",
     "description": "Provides heat for warming thermoplastics, activating adhesives, shrinking heat sensitive tubing, etc",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/bbe05ab3d69a027bc6d1/equipment_image14.jpeg"
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/704a2af95d1c18d6c79f/equipment_image14.jpeg",
+    "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/04355a389a8b1d9e453b/equipment_vid_Heat%20Gun.mp4",
+    "author": "Flat Rate Master\n"
   },
   {
     "name": "Hot Wire Foam Cutter",
     "description": "Can be used to cut out shapes from foam\n\n",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/c67714820e2557b1d024/equipment_image15.jpeg"
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/0fb8a9f209600bd3e9f8/equipment_image15.jpeg",
+    "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/508495a236773ec64dbe/equipment_vid_Hot%20wire%20foam%20cutter.mp4",
+    "author": "\nDave's Model Workshop\n"
   },
   {
     "name": "Bandsaw",
     "description": "Used for cutting wood and plastic",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/9801eaa2bf46c0a8c09f/equipment_image20.jpeg"
-  },
-  {
-    "name": "Electronics Kits",
-    "description": "Contain commonly used circuit building components and measuring instruments",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/ec90cb0b57b48cb040de/equipment_image19.jpeg"
-  },
-  {
-    "name": "Vinyl Cutter",
-    "description": "Used for cutting the selection of vinyls provided in the makerspace",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/a2ba9a0c2c1847deebba/equipment_8275.jpg"
-  },
-  {
-    "name": "Pressure Chamber",
-    "description": "Equipment used to push air bubble out of different materials. This allows users to create high quality prototypes.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/90fb00055f24c3a04978/equipment_2264.jpg"
-  },
-  {
-    "name": "Vacuum Former",
-    "description": "Equipment used for making molds and forms out of thick, durable thermoplastics",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/85b2137daef7cafe71cc/equipment_3984.jpg"
-  },
-  {
-    "name": "Vacuum Chamber",
-    "description": "Used for the first stage of removing air out of a material, prior to using the pressure chamber.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/faf700c1dea71dbde59a/equipment_0508.jpg"
-  },
-  {
-    "name": "Hand Tools",
-    "description": "Spanners, Screw Drivers, Tape Measure, Clamps, etc.",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/2a32c6923c81aa0b2660/equipment_image18.jpeg"
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/dbe92b4ced3678545673/equipment_image20.jpeg",
+    "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/d0134794cb23c681dde7/equipment_vid_Bandsaw.mp4",
+    "author": "Howcast\n"
   }
 ]
 
@@ -194,108 +210,846 @@ puts 'Finish creating equipments'
 
 projects = [
   {
-    "name": "Wired Up Stiationery",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/32b58191a1748dea7bd4/project_Wired%20Up%20Stationery%20-%20Main%20Page.jpg",
-    "description": "Learn how to wire up simple circuits, with stationery."
+    "name": "Hero’s Helmet",
+    "level": "",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/410137188_MA_01031832.jpg",
+    "tagline": "No knight would be ready for battle without a helmet.",
+    "description": "No knight would be ready for battle without a helmet. Make your own protective headgear, complete with a visor, faceguard, and feather plume. Or, if knights are too old-fashioned, whip up a superhero mask or racing helmet.",
+    "preparation_time": "2 Hours"
   },
   {
-    "name": "Wind Tubes",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/bd0ccb619d9220db3f46/project_wind_tubes_thumbnail.jpg",
-    "description": "Explore moving air, wind, and aerodynamics with a variety of everyday objects."
+    "name": "Dome Den",
+    "level": "INTERMEDIATE",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/909936266_MA_01031389RT2-1.jpg",
+    "tagline": "Hide away in the special dome-shaped den.",
+    "description": "Have hours of fun playing outdoors or just relax and hide away in this special dome-shaped den. Once you've built your den, you can be as creative as you like when you decorate it. Paint the tiles in bold colors to make striking patterns, or even turn your den into a space base, woodland hideout, or igloo!",
+    "preparation_time": "2 Days"
   },
   {
-    "name": "Toy Take Apart",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/e42deed6cd0e59482ad5/project_toy_takeapart_thumbnail.jpg",
-    "description": "Do you ever wonder what’s inside your toys? You’ll make some exciting and surprising discoveries!"
+    "name": "IoT Telegraph",
+    "level": "ADVANCED",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/07/hero.jpg?zoom=2&fit=1600%2C1064&ssl=1",
+    "tagline": "Make a Morse code device to send top-secret messages.",
+    "description": "Make a Morse code device to send top-secret messages. Take the simplicity of a physical Morse key, add a Raspberry Pi — an inexpensive web-connectable board that fits in a project box — to connect to the Internet and start sending messages. You’ll solder and hook up a sensor, so get ready for a great challenge!",
+    "preparation_time": "3-8 Hours"
   },
   {
-    "name": "Squishy Circuits",
+    "name": "Cardboard Prototypes",
     "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/97ec206bca3ef8a5254b/project_squishy_circuits_thumbnail.jpg",
-    "description": "Use homemade conductive and resistant play-doh to build electronic sculptures that light up, move, and make sounds."
-  },
-  {
-    "name": "Sewn Circuits",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/fb0db26e9006b708f37d/project_sewn_circuits_thumbnail.jpg",
-    "description": "Watch your friends’ eyes light up, as you light up the LED on your clothing just by wearing it!"
-  },
-  {
-    "name": "Sew LED Torch",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/c8b62f59c898bc9b1eaa/project_Sew%20LED%20Torch.png",
-    "description": "Lights up after bedtime  with this Textile LED Torch Light."
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/07/CB_1.jpg",
+    "tagline": "Build a cardboard prototype for a Spider-Man-themed box",
+    "description": "Learn how to build a cardboard prototype for a Spider-Man-themed box. It’s fun to figure out the fixes and challenges for creating simple items with cardboard instead of using 3D printing or other expensive and time-consuming processes. What will you use your box for? We’ve created one to hold our Post-It notes, but you could build a prototype box for your IoT Telegraph that will send secret Spider-Man messages. (Or you could just use it to hold Post-It notes.)",
+    "preparation_time": "15 Minutes"
   },
   {
     "name": "Secret Light Up Ring",
     "level": "INTERMEDIATE",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/0e92a9ce21223e844ef5/project_LED%20Ring.png",
-    "description": "Discover electromagnets in everyday life with this inductive LED ring!"
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/48def6d49817cbb99ec8/LED%20Ring.png",
+    "tagline": "Discover electromagnets in everyday life with this inductive LED ring!",
+    "description": "Discover electromagnets in everyday life with this inductive LED ring!",
+    "preparation_time": "1 Day",
+    "video_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/275ed16caedebc97d767/How%20To%20Make%20an%20Inductive%20LED%20Ring.mp4"
   },
   {
-    "name": "Scribbling Machines",
+    "name": "Sew LED Torch",
     "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/ad4073a03e1dd8384dec/project_scribbling_machines_thumbnail.jpg",
-    "description": "Make a motorized contraption that moves in unusual ways and leaves a mark to trace its path."
+    "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/d970e5b297e18d09f1c5/Sew%20LED%20Torch.png",
+    "tagline": "Lights up after bedtime  with this Textile LED Torch Light.",
+    "description": "Lights up after bedtime  with this Textile LED Torch Light.",
+    "preparation_time": "2 Hours"
   },
   {
-    "name": "Plastic Fusing",
+    "name": "Wired Up Stiationery",
     "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/46e688788c52686c97fd/project_plastic_fusing_thumbnail.jpg",
-    "description": "Turn old plastic bags into beautiful new fabrics that you can use to make a variety of fashionable items."
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/27465491ea0076a23ccc/Wired%20Up%20Stationery%20-%20Main%20Page.jpg",
+    "tagline": "Learn how to wire up simple circuits, with stationery.",
+    "description": "Learn how to wire up simple circuits, with stationery.",
+    "preparation_time": ""
   },
   {
-    "name": "Paper Circuits",
+    "name": "Penny-Powered Flashlight",
     "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/3dcf0dae8c528ca49318/project_paper_circuit_thumbnail.jpg",
-    "description": "Make simple or complex electrical circuits on a flat piece of paper!"
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/07/Untitled-1.jpeg?zoom=2&fit=1704%2C793&ssl=1",
+    "tagline": "Power a flashlight with pennies so you can signal Spider-Man when you’re in need!",
+    "description": "Power a flashlight with pennies so you can signal Spider-Man when you’re in need! No store-bought batteries necessary. Build the flashlight with an LED and a few other household supplies, and make your own power source with coins and cardboard.\n",
+    "preparation_time": "30 Minutes"
   },
   {
-    "name": "Musical Bench",
+    "name": "Colorful Comic Kaleidoscope",
+    "level": "BEGINNER",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/07/Kaleidoscope_hero.png?zoom=2&fit=1200%2C760&ssl=1",
+    "tagline": "Make a built-in illumination kalaidoscope.",
+    "description": "Make a kaleidoscope to bathe a black and white Spider-Man comic in colorful light. Ordinary kaleidoscopes need ambient light to work: you view it by pointing it toward a light source. This one has built-in illumination so you can hold it right up against a printed page. The special RGB LED has a color-changing feature that continuously cycles through a rainbow of colors, making viewing black and white comics a trippy treat!",
+    "preparation_time": "2 Hours"
+  },
+  {
+    "name": "Dazzling Kaleidoscope",
+    "level": "BEGINNER",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/IMG_4163_work.jpg?zoom=2&fit=5433%2C4075&ssl=1",
+    "tagline": "See the world through your own colorful kaleidoscope.",
+    "description": "A cardboard tube from a roll of paper towels is the perfect size for your kaleidoscope. Inside the tube, you need three reflective surfaces—this can be made from a plastic document folder. However, if you can find it, mirrored paper also works well. When your kaleidoscope is finished, look through it and point it toward a lamp or out of the window. But remember to never point the tube directly at the sun, because you could damage your eyes.",
+    "preparation_time": "30 Minutes"
+  },
+  {
+    "name": "Lemon Battery",
+    "level": "BEGINNER",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/405625766_mainRT-1.jpg?zoom=2&fit=8280%2C5864&ssl=1",
+    "tagline": "Did you know that you can make a battery using lemons?",
+    "description": "Did you know that you can make a battery using lemons? With just five lemons, some coins, screws, and copper wire, you can make an electric current flow around a circuit with enough energy to illuminate a small lamp called a light emitting diode (LED). Now just imagine what you could power with one hundred lemons!",
+    "preparation_time": "15 Minutes"
+  },
+  {
+    "name": "Glowing Pinwheel",
     "level": "ADVANCED",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/4b6e99ef99046b4b7c0f/project_musical_bench_thumbnail.jpg",
-    "description": "This exhibit makes music when people touch, kiss, or hold hands."
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/Pinwheel_04.jpg?zoom=2&fit=3744%2C5616&ssl=1",
+    "tagline": "A DIY pinwheel is fun anytime, but this one creates great patterns of spinning, sparkling light.",
+    "description": "A DIY pinwheel is fun anytime, but this one creates great patterns of spinning, sparkling light.",
+    "preparation_time": "30 Minutes"
   },
   {
-    "name": "Marble Machines",
+    "name": "Make it Sing",
     "level": "ADVANCED",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/adc392d1186c16689874/project_marble_machines_thumbnail.jpg",
-    "description": "A Marble Machine is a creative ball-run contraption made from familiar materials."
-  },
-  {
-    "name": "Light Play",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/09b080a747d6de8aa19b/project_light_play_thumbnail.jpg",
-    "description": "Explore light, shadow, and motion using a variety of simple materials and light sources."
-  },
-  {
-    "name": "Light Painting",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/76c463d0764e2b10635f/project_light_painting_thumbnail.jpg",
-    "description": "Create striking images and illusions using nothing more than a camera, a light source, and a little practice."
-  },
-  {
-    "name": "Digital Bling\n",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/ad391b3dbe1baa66ffe6/project_digital_bling_thumbnail.jpg",
-    "description": "Adorn your body with electrifyingly awesome jewelry that you build yourself."
-  },
-  {
-    "name": "Chain Reaction",
-    "level": "INTERMEDIATE",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/ceb75ab3de4cf3a7f84a/project_chain_reaction_thumbnail.jpg",
-    "description": "Rube Goldberg-inspired cause and effect contraptions using everyday materials and found objects."
-  },
-  {
-    "name": "Cardboard Automata",
-    "level": "BEGINNER",
-    "photo_url": "https://avos-cloud-dycrb1wrauoc.s3.amazonaws.com/fda1279de90dea3b1256/project_carboard_automata_thumbnail.jpg",
-    "description": "Explore mechanical elements such as cams, levers, and linkages to create your own moving sculpture."
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/StartMakingTheClubhouseNetwork_3-1.jpg",
+    "tagline": "An interactive drawing that plays music when you touch it.",
+    "description": "As a starter project, let’s make an interactive drawing that plays music when you touch it. Using a Makey Makey board and Scratch programming environment, you’ll explore and experiment with conductive and non-conductive materials and learn to code a simple computer program.",
+    "preparation_time": "30 Minutes"
   }
 ]
 
+
 Project.create(projects)
 puts 'Finish creating projects'
+
+project_steps = [
+  {
+    "project_id": 1,
+    "title": "STEP 1",
+    "description": "To make the frame, cut out two long strips of cardboard. Wrap one horizontally around your balloon stand at mouth height. Bend the other strip over the top, angling it toward the back slightly.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/410137094_MA_01031733.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 1,
+    "title": "STEP 2",
+    "description": "Stick the two strips together on either side of the join, using strong tape. Repeat on the other side.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/410137098_MA_01031726.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 1,
+    "title": "STEP 3",
+    "description": "Now bring the ends of the horizontal strip together, at the front of the balloon stand. Overlap the edges slightly and tape them together.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/410137100_MA_01031738-1.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 1,
+    "title": "STEP 4",
+    "description": "Trim the ends off the vertical strip, so they are level with the horizontal strip. Add extra tape on the inside to strengthen the joins.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/410137107_MA_01031735.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 1,
+    "title": "STEP 5",
+    "description": "To fill in the hole at the back of the helmet, cut out three cardboard rectangles. Position one of your rectangles centrally and secure it with strong tape.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/410137112_MA_01031731.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 1,
+    "title": "STEP 6",
+    "description": "Tape the other two rectangles on either side of the piece you attached in step 5, to cover the gaps.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/410137119_MA_01031739.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 1,
+    "title": "STEP 7",
+    "description": "To make the visor, draw a stretched semicircle shape on a piece of cardboard and then cut the shape out.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/410137086_MA_01031730.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 1,
+    "title": "STEP 8",
+    "description": "Bend the visor into a curved shape and tape the ends to either side of your helmet. Tape it on the inside too, to strengthen it.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/410137134_MA_01031748.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 1,
+    "title": "STEP 9",
+    "description": "Use the template to draw half of the faceguard on a piece of cardboard. Flip the template to draw the other half, then cut it out.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/410137089_MA_01031732.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 1,
+    "title": "STEP 10",
+    "description": "Fold the faceguard in half from point to point, then bend it into a curved shape on either side of the fold.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/410137137_MA_01031754.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 1,
+    "title": "STEP 11",
+    "description": "With the folded edge pointing outward, attach the ends of the faceguard to either side of the helmet, using strong tape.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/410137141_MA_01031747.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 1,
+    "title": "STEP 12",
+    "description": "Now make the plume. Lay your helmet on its side on a piece of cardboard and use it as a guide to draw the plume. Then cut out the shape.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/410137147_MA_01031770.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 1,
+    "title": "STEP 13",
+    "description": "To attach the plume to the helmet, cut out two cardboard rectangles. Fold the pieces in half to create tabs, then tape them to the plume.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/410137156_MA_01031768.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 1,
+    "title": "STEP 14",
+    "description": "Position the plume against the back of the helmet and tape the tabs down.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/410137158_MA_01031763.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 1,
+    "title": "STEP 15",
+    "description": "Your knight’s helmet is now ready to decorate. Use gray or silver paint to create a metal effect. Paint the plume in any color you want.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/410137160_MA_01031780_1.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 1",
+    "description": "Lay your triangle 1 template on cardboard. Extend side A to 12 1/4 in (31 cm) on side B to 10 3/4 in (27.3 cm). Add a third line to complete the triangle, and cut the piece out.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/909936148_MA_01031377RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 2",
+    "description": "Lay the triangle on cardboard and draw around it to make an identical triangle.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/909936157_MA_01031361RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 3",
+    "description": "Make a 1 1/2 in (4 cm) cardboard strip and draw around it to add 1 1/2 in (4 cm) tab outlines to all three sides of the triangle.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/909936167_MA_01031375RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 4",
+    "description": "Cut out around the tab outlines of the triangle. This triangle will be used for your first triangle 1 tile.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/MA_01031648_909936168RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 5",
+    "description": "Use your triangle 1 template to mark a straight line across the corners of the triangle. Cut along these lines. Repeat steps 2-5 to make 30 triangle 1 tiles.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/MA_01031657_909936173RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 6",
+    "description": "Now, lay the triangle 2 template on cardboard. Extend both sides to 12 1/4 in (31 cm) and join them up. Then, cut out the triangle and use it to repeat step 2.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/MA_01031650_909936183RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 7",
+    "description": "Use the cardboard strip from step 3 to add tabs to the triangle, then cut off the corners. Repeat steps 6-7 to make nine triangle 2 tiles.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/MA_01031647_909936191RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 8",
+    "description": "To make your square tiles, draw a square on cardboard with lines that are 12 1/4 in (31 cm) long.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/MA_01064246_DK_Out_of_the_Box_07-11-16134181.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 9",
+    "description": "Use the strip from step 3 to add tabs to the square. Use the triangle 1 template to mark and cut the corners. Then cut off the bottom tab. Repeat steps 8-9 to make nine square tiles.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/MA_01031658_909936192RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 10",
+    "description": "Score along the tab lines of all three sets of tiles. Then fold along the score lines to finish making the tabs.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/MA_01031655_909936193RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 11",
+    "description": "Arrange five triangle 1 tiles into a pentagon shape, so the tabs on the shorter sides meet. Use strong tape to fix the first two together.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/MA_01031646_909936206RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 12",
+    "description": "Secure the other edges in the same way. Then repeat step 11 to make five more pentagons out of the remaining 25 triangle 1 tiles.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/MA_01031656_909936201RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 13",
+    "description": "Now lay two pentagons next to each other, as shown, and a slot a triangle 2 tile in between them. Tape the tabs to connect the triangle to the pentagons.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/909936210_MA_01031367RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 14",
+    "description": "Repeat step 13 to attach three more pentagons to the two you’ve already connected. Once finished, you will have a single long curving piece. This is the roof section!",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/909936213_MA_01031362RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 15",
+    "description": "Stand the whole piece up and pull the ends towards each other to form a circular shape. Leave a gap at the front for the top of the door, so you can easily enter the den.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/909936224_MA_01031378RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 16",
+    "description": "Slot the five remaining triangle 2 tiles into the V-shaped spaces around the dome’s top edge. Line up the tabs and tape them together.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/909936230_MA_01031376_RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 17",
+    "description": "Place the remaining pentagon into the gap at the top of your dome. Tape the tabs together to complete the roof of the dome.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/909936235_MA_01031371RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 18",
+    "description": "Now, make the wall of your dome. Start by taping the left-hand tab of one square tile to the right-hand tab of another square tile.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/909936271_MA_01031384RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 19",
+    "description": "Repeat step 18 to link all nine square tiles in a line. Stand the piece up and arrange it into a circle. You have now finished the wall.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/909936248_MA_01031372RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 20",
+    "description": "Now pick up your domed roof and lower it onto the wall. Make sure the tabs on both sections line up where they meet.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/909936251_MA_01031392RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 21",
+    "description": "Tape the wall and roof section securely together with strong tape.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/909936260_MA_01031368RT.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 2,
+    "title": "STEP 22",
+    "description": "It’s time to paint your dome den! Choose a bright selection of colors.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/909936266_MA_01031389RT2.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 1",
+    "description": "The simplest way to get the telegraph code set up on your Pi is to use the pre-packed disk image. Download and unzip the disk image. The disk image includes the Raspbian operating system, so it will take a few minutes to download. (For advanced options, or to install the telegraph client manually, check the instructions in the GitHub repository).",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/07/Raspi-PGB001.png?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 2",
+    "description": "If you don’t already have a tool for burning disk images, Etcher is a good option. Insert a blank microSD card into your card reader. Launch Etcher, click “Select Image,” and select the Internet Telegraph disk image (internet-telegraph.img). Click “Select Drive” and select your microSD card (be careful with this one — you don’t want to write the image to your hard drive!). Click “Flash” and wait for Etcher to do its work. Eject the SD card and pull it out of your card reader, then put it back in. It should mount as a disk that’s accessible through your file manager.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/07/pi-zero-w.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 3",
+    "description": "The telegraph can be run over Ethernet (using a micro USB to Ethernet adapter such as Adafruit #2992), or connected to a wireless network. To connect it to a wireless network, open /etc/wpa_supplicant/wpa_supplicant.conf from the SD card, and update the network info at the bottom of the file with your network’s SSID and Wi-Fi password.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/07/wpa.png?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 4",
+    "description": "Open config.json in the root directory of your SD card. There are two configuration options you can set: The “channel” determines who else you’ll be communicating with. To send private Morse messages with your friends or relations, set this to an obscure series of words or string of characters that only you and your buddies know. The default channel is the “lobby.” Anyone with a telegraph who doesn’t change their channel will be in the lobby.",
+    "photo_url": ""
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 5",
+    "description": "By default, telegraph messages go through our server at morse.autodidacts.io. You can also grab the server code from GitHub and set up your own server either on the web or on your local network. If you’re running your own server, change the “server” value from morse.autodidacts.io to the URL or IP address of your server.",
+    "photo_url": ""
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 6",
+    "description": "Once you’ve saved the updated config, eject your SD card and pop it into the Pi Zero.",
+    "photo_url": ""
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 7",
+    "description": "The first step for connecting things to your Pi Zero is to solder on the GPIO pin header. Put the header in from the top, then flip the Pi over and solder a pin in at each end to hold the header in place. Solder the rest of the pins, taking care to avoid bridging the gaps between pins with any errant solder blobs. Check out Adafruit for a more detailed tutorial.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/07/C.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 8",
+    "description": "Slip a couple of sections of heat-shrink tubing over the leads of one of the JST connectors, and then solder the leads onto the terminals of the arcade button. It doesn’t matter which wire goes to which terminal on the button. When you’re done, slide the heat-shrink tubing over the joint and shrink it on with your soldering iron.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/07/D.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 9",
+    "description": "Solder the other JST lead onto the buzzer. This one is polarity-specific: Make sure you connect the black or dashed negative wire onto the longer pin.",
+    "photo_url": ""
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 10",
+    "description": "Get Outside the Box: We’ve used an iPhone box for the enclosure. This is a convenient approach, but it’s only one of many options for housing your telegraph. You could use clear acrylic, 3D print your enclosure, or even install the telegraph in a cottage cheese tub, like many of our early electronics experiments. Let your creativity, available materials, and aesthetic preferences lead the way.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/07/IMG_4423.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 11",
+    "description": "Plug the buzzer lead into GPIO pin 19 and ground, making sure the negative side is toward the edge of the Pi, and glue the buzzer down with a dot of hot glue to prevent it from knocking around in the box like a poltergeist.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/07/IMG_4421-e1500761652138.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 12",
+    "description": "Cut a hole in the lid of the box, thread the arcade button’s wire through the hole, and screw on the fastener from below. Plug the button’s lead into GPIO pins 26 and ground. This one can be oriented either way.",
+    "photo_url": ""
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 13",
+    "description": "Plug in the USB power and wait about 30 seconds for the Pi to boot up. When the Pi is booted up and connected to the Morse server, it will beep out “ready” in Morse code ( .-. . .- -.. -.–).",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/07/IMG_4436-e1501021712943.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 14",
+    "description": "To test your connection, push the button on your telegraph. If you hear a beep, your telegraph is talking to the server. All systems go!",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/07/morse.png?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 15",
+    "description": "The standard Morse alphabet includes letters, numbers, and a variety of punctuation symbols. For a more complete set, as well as some tips on learning Morse, print out a copy of InternetTelegraph/Docs/translate-morse.pdf from the GitHub repo. You’ll want to have a notebook handy for transcribing incoming messages.",
+    "photo_url": ""
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 16",
+    "description": "Morse is made up of dots, dashes, and spaces (gaps). Each of these has a specific length in relation to the other symbols. Keeping these lengths in mind will help you send well-formed messages that are easy to decode, at whatever speed you’re punching them out. A dash is three times as long as a dot. Gaps between symbols within a letter are as long as one dot. Gaps between letters are three dots long, and gaps between words are seven times as long as a dot.",
+    "photo_url": ""
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 17",
+    "description": "Once you (and any other telegraph operators on your channel) are ready to go, it’s time to send a message!",
+    "photo_url": ""
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 18",
+    "description": "We suggest something short and sweet, like “hi.” In Morse, that’s four dots, a space, and then two dots: dit-dit-dit-dit dit-dit. (As it happens, “hi” was also the output sample that came just before the first ever use of “hello world” in a 1972 programming tutorial by Brian Kernighan. We’re sticking with historical precedent here.)",
+    "photo_url": ""
+  },
+  {
+    "project_id": 3,
+    "title": "STEP 19",
+    "description": "Try going very slowly at first, and sending simple messages. You might want to jot down the Morse as it comes in, and then decode it after the transmission. The same works for sending: write out the Morse first, and then key it into the telegraph.",
+    "photo_url": ""
+  },
+  {
+    "project_id": 4,
+    "title": "STEP 1",
+    "description": "Lay out all of your materials, plug in your hot glue gun, and sharpen your pencils!",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/07/CB_15.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 4,
+    "title": "STEP 2",
+    "description": "Choose an item to make a box for. We chose a stack of Post-It notes because it was nice and square. After looking at your item, do a quick sketch on of what you want your box to look like.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/07/CB_2.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 4,
+    "title": "STEP 3",
+    "description": "Place the object onto your cardboard and trace its footprint. Add a little bit of space around each side to make sure the object will fit inside after you fold up the sides (Step 4).",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/07/CB_4.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 4,
+    "title": "STEP 4",
+    "description": "Draw walls for each side of the box based on your sketch. Then, cut out the whole thing!",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/07/CB_7.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 4,
+    "title": "STEP 5",
+    "description": "Fold up the sides and that’s it! Your box prototype is complete!",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/07/CB_9.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 4,
+    "title": "STEP 6",
+    "description": "Put your item into your prototype. How does it fit? Too loose or too tight? If it’s not quite right, add or subtract space around the traced foot print in Step 3 and repeat the process until your object fits! Once you have the right fit, you can take the cardboard dimensions and use them to design your final box using different materials. Or hot glue the sides of your cardboard box and use it as is.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/07/CB_11.jpg?fit=1000%2C1000&ssl=1&strip=all"
+  },
+  {
+    "project_id": 5,
+    "title": "STEP 1",
+    "description": "Make your coil.Wrap the wire in a circle 15 -30 times making sure that it will that will fit in the mold. Tuck the wire into your mold to keep it from unraveling.",
+    "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/4957c60c176d4a76fa5c/LED%20Ring%20Step%201.png"
+  },
+  {
+    "project_id": 5,
+    "title": "STEP 2",
+    "description": "Trim your LED legs so they comfortably fit in the mold, and solder one LED leg to one free end of the wire, and repeat with ends.",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/2e36d7f6aa86e7e5d004/LED%20Ring%20Step%202.png"
+  },
+  {
+    "project_id": 5,
+    "title": "STEP 3",
+    "description": "Now is a good time to test your LED to make sure everything is working as expected. Test using a Adafruit chi pad, or any wireless charging pad, or a phone with NFC. These all contain a primary induction coil. Hold the coil and LED assembly over the charger (primary coil). The LED should light up. The LED requires that current flow in a specific direction (it has a polarity) , so if the LED does not light up, flip it over to reverse the polarity and align it with the primary coil. ",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/0411ef71512ccf2a66f5/LED%20Ring%20Step%203.png"
+  },
+  {
+    "project_id": 5,
+    "title": "STEP 4",
+    "description": "Prepare your resin according to the included instructions. This is the time to add glitter or color into your resin. Pour resin into your mold, making sure to get around the wires and tapping gently as needed so there are no air bubbles in the cast.",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/45f7f55b5df7623e9fab/LED%20Ring%20Step%204.png"
+  },
+  {
+    "project_id": 5,
+    "title": "STEP 5",
+    "description": "Let your resin cure as directed. Once fully cured, clean up with sandpaper.",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/d58e40f71581b464f26d/LED%20Ring%20Step%205.png"
+  },
+  {
+    "project_id": 5,
+    "title": "STEP 6",
+    "description": "Check out your ring!",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/b421007e3dfece252b29/LED%20Ring%20Step%206.png"
+  },
+  {
+    "project_id": 6,
+    "title": "STEP 1",
+    "description": "Sew the pressure switch at the center of the felt and it should be about 15 stiches. ",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/619868818d433195c46f/Sew%20LED%20Torch%20-%20Step%201.jpg"
+  },
+  {
+    "project_id": 6,
+    "title": "STEP 2",
+    "description": "Sew the two LED Lights at the both center on the left and the eight side of the felt and start stiches to secure both positive and negative leg to the felt. Make sure that none of the legs are in contact after the stiches are completed, it should be about 7 stiches per leg. At the same time connect one side of the LED Positive Leg to the other LED Negative Leg. ",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/2ed258b36815bc8f1f37/Sew%20LED%20Torch%20-%20Step%202.jpg"
+  },
+  {
+    "project_id": 6,
+    "title": "STEP 3",
+    "description": "Sew and join both the felt for the pressure switch and the LED Lights.",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/ecff53b1d6a1e05785c1/Sew%20LED%20Torch%20-%20Step%203.jpg"
+  },
+  {
+    "project_id": 6,
+    "title": "STEP 4",
+    "description": "Sew up and encase the two 3V batteries. ",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/e385aeaa82a06796397b/Sew%20LED%20Torch%20-%20Step%204.jpg"
+  },
+  {
+    "project_id": 6,
+    "title": "STEP 5",
+    "description": "Stack five layers of small frame-like sqaures felt with centered holes all aligned. ",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/4aeb31005febb55d5c4c/Sew%20LED%20Torch%20-%20Step%205.jpg"
+  },
+  {
+    "project_id": 6,
+    "title": "STEP 6",
+    "description": "Sew the other 3 open sides of the pressure switch felt and LED felt, together with the small frame-like sqaures felt. ",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/8757f5774093427c163b/Sew%20LED%20Torch%20-%20Step%206.jpg"
+  },
+  {
+    "project_id": 6,
+    "title": "STEP 7",
+    "description": "Place the two batteries in series within the battries pouch with a double 3V batteries terminals and connect the positive side of the terminals to the positive leg of one LED and the negative side of the terminals to the other negative leg of the other LED. Remember that earlier in 2nd Step, we already connected the LED in series. ",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/ac1fd624d5974f39d96d/Sew%20LED%20Torch%20-%20Step%207.jpg"
+  },
+  {
+    "project_id": 7,
+    "title": "STEP 1",
+    "description": "The power source for your Scrappy Circuits.\n\nClip a binder clip to one side of a rectangle of cardboard (a “brick”).\nFlip one binder clip arm down and trim the opposite side of the cardboard slightly longer than the extended arm. Place the battery on top of the clip arm with the smooth, positive (+) side down and clip a second binder clip over the battery. Label each clip positive (+) or negative (–) based on which side of the battery it touches. This makes lighting the LED easier later.",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/bec442a68cedc9745ae2/Wired%20Up%20Stationery%20-%20Step%201%20Battery-Brick.jpg"
+  },
+  {
+    "project_id": 7,
+    "title": "STEP 2",
+    "description": "Of the Core Bricks, this is the only load, or item that consumes electricity.\n\nStretch the legs of the LED apart. Clip a binder clip around the longer LED leg and the cardboard. Label this side (+). Clip the opposite leg and label it (–).",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/89da6d83dd230d2e61dd/Wired%20Up%20Stationery%20-%20Step%202%20LED-Brick.jpg"
+  },
+  {
+    "project_id": 7,
+    "title": "STEP 3",
+    "description": "It operates just like a toggle light switch.\n\nClip two binder clips to opposite sides of a brick. Flip one arm flat against the brick. It should not touch the other binder clip. If it does, cut a larger brick.\nWhen you flip the opposite arm down, it completes the circuit (turns on). When you lift the arm, it turns the circuit off. ",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/8b7767915bca4d354bce/Wired%20Up%20Stationery%20-%20Step%203%20Binder%20Clip%20Switch.jpg"
+  },
+  {
+    "project_id": 7,
+    "title": "STEP 4",
+    "description": "Momentary switches turn on when pushed down. When released, they turn off again.\n\nClip one binder clip to a cardboard brick. Lower the upper arm. Lay a paper clip perpendicular over the binder clip arm. Use a second binder clip to hold the paper clip in place. After it is clipped, bend the paper clip up slightly so it’s not touching the other arm. Push the paper clip down to close the switch and turn your LED on. ",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/0d832d960305726286ca/Wired%20Up%20Stationery%20-%20Step%204%20Push%20Switch.jpg"
+  },
+  {
+    "project_id": 7,
+    "title": "STEP 5",
+    "description": "A creative use of the tea light cylinder body.\n\nUse glue stick to attach aluminum foil to each side of a cardboard brick. Be sure the two pieces do not touch in the center. Add binder clips to each end.\nGlue foil to 50%–75% of the inside and outside of the lower edge of the cylinder. Poke a hole through the cardboard. Insert a straightened paper clip through the cylinder and the hole.\nBend the paper clip to capture the cylinder. Tape it down or cut off excess. Spin to turn on or off. When the foil on the cylinder touches both pieces on the cardboard, the circuit will turn on. When it touches just one side, it will be off.",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/240d9ed4fb48266ab3e9/Wired%20Up%20Stationery%20-%20Step%205%20Dial%20Switch.jpg"
+  },
+  {
+    "project_id": 7,
+    "title": "STEP 6",
+    "description": "Your bricks can be connected with alligator clips or with Scrappy Clips. To make a Scrappy Clip, cut 6″–10″ of aluminum foil. Fold it in half a few times and then roll it tight. Hook each end through the one-hoop end of a small paper clip. Squeeze the connection tight with pliers.",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/90100cd59062cbde8c12/Wired%20Up%20Stationery%20-%20Step%206%20Scrappy%20Clips.jpg"
+  },
+  {
+    "project_id": 8,
+    "title": "STEP 1",
+    "description": "\nGather seven pennies that were made in 1983 or later. You can tell when a penny was made by looking at the date on the front of it. Pennies made in 1983 and later have zinc in them, which is what we need for this project.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/07/Untitled-2.jpeg?zoom=2&fit=787%2C812&ssl=1"
+  },
+  {
+    "project_id": 8,
+    "title": "STEP 2",
+    "description": "Put on your safety glasses and sand one side of each penny until it has a silver-looking finish. That’s the zinc! It could take a while to sand away the copper (brown finish), but the zinc is under there.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/07/Untitled-6.jpeg?zoom=2&fit=923%2C816&ssl=1"
+  },
+  {
+    "project_id": 8,
+    "title": "STEP 3",
+    "description": "Place a penny on a piece of cardboard and trace around it six different times. Pour vinegar into the cup. Cut out the six cardboard circles and put them into the cup of vinegar. Once they are completely saturated with vinegar, take the cardboard circles out and use a paper towel to wipe off the excess vinegar.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/07/Untitled-4.jpeg?zoom=2&fit=828%2C824&ssl=1"
+  },
+  {
+    "project_id": 8,
+    "title": "STEP 4",
+    "description": "Now let’s build the battery. Cut a piece of duct tape about 1/2″ wide and 5″ long. Lay it flat on a surface — sticky side up. Place 1 sanded penny — zinc (silvery) side up — in the middle of the tape.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/07/Untitled-8.jpeg?zoom=2&fit=608%2C416&ssl=1"
+  },
+  {
+    "project_id": 8,
+    "title": "STEP 5",
+    "description": "Place a cardboard circle on top of the penny. Place another penny — zinc side up — on top of the cardboard circle. Continue to do this until you’ve placed all pennies and cardboard circles in one stack. A penny with the zinc side facing up should be at the top of the stack.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/07/Untitled-9.jpeg?zoom=2&fit=382%2C470&ssl=1"
+  },
+  {
+    "project_id": 8,
+    "title": "STEP 6",
+    "description": "Bring one end of the duct tape up along the side of the stack, wrap it across the top, and then down along the other side to where it meets the other half. Wrap the second half of duct tape in the same way over the first, affixing it across the bottom of the stack and cutting off any excess tape. The other two sides of the stack should remain open so we can attach the LED. Take the LED and bend the wires, or leads, so the positive (+) lead — the longer one — can touch the zinc of the penny on the top of the stack. Bend the negative (–) lead — the shorter one — so it can touch the bottom penny’s copper (brown) side. It should light up",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/07/Untitled-10.jpeg?zoom=2&fit=756%2C555&ssl=1"
+  },
+  {
+    "project_id": 9,
+    "title": "STEP 1",
+    "description": "Cut 6-1/2″ from a paper towel tube — this will be the body of the kaleidoscope. Cut three strips of black ABS, 1-1/4″ wide and 6-1/2″ long. Arrange the three strips in a triangular shape, shiny sides facing in, and insert it into the tube. The three shiny surfaces make a great first-surface mirror!",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/07/IMG_4432-e1501016179163.jpg?zoom=2&fit=1224%2C1632&ssl=1"
+  },
+  {
+    "project_id": 9,
+    "title": "STEP 2",
+    "description": "Cut a 1-1/2″-diameter disc out of ABS. Drill or grind a 3/4″ hole in the center. Drill three small holes near the edge and thread the LED’s legs through. Bend the legs to ensure the LED will shine inside of the mirrors when the disc is in place. Attach the switch to the disc, across from the LED, using super glue.\n\nSolder the LED’s flat-side lead to ground of a 3V button cell battery holder and solder the other leg to one of the contacts on the switch. Solder the other switch contact to the positive on the battery. Insert the battery into the holder, then flip the switch to turn on the LED and watch it cycle through its colors!",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/07/IMG_4433-e1501016126558.jpg?zoom=2&fit=1224%2C1632&ssl=1"
+  },
+  {
+    "project_id": 9,
+    "title": "STEP 3",
+    "description": "Make a small hole for the switch on the side of the tube. Position the disc, LED side down, on top and slip the battery into the space between an ABS strip and the tube. Slide the switch through the hole. If needed, cover the back and side of the LED with a small piece of black electrical tape to shade your eye from glare.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/07/IMG_4434-e1501016551146.jpg?zoom=2&fit=1224%2C1632&ssl=1"
+  },
+  {
+    "project_id": 9,
+    "title": "STEP 4",
+    "description": "Cut out a 1-3/4-diameter circle of foam and tape it to the tube on top of the ABS disc. Slide the scope directly over your favorite comics and flip the switch to watch the colors go — cool! Scan to see the Colorful Comic Kaleidoscope in action!",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/07/IMG_4435-e1501016651788.jpg?zoom=2&fit=1224%2C1632&ssl=1"
+  },
+  {
+    "project_id": 10,
+    "title": "STEP 1",
+    "description": "Stand the cardboard tube upright on one of the pieces of colored paper, and draw around the end of the tube. Put the tube to one side, and draw six tabs around the outside edge of the drawn circle. Cut out the circle with the tabs.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/408433004.jpg?zoom=2&fit=4968%2C3725&ssl=1"
+  },
+  {
+    "project_id": 10,
+    "title": "STEP 2",
+    "description": "Place the circle over one end of the tube. Stick down the tabs with tape. Make a hole in the center of the circle with the pencil point. Measure the tube’s length and the diameter (width) of the circle.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/408433012_02.jpg?zoom=2&fit=4968%2C2300&ssl=1"
+  },
+  {
+    "project_id": 10,
+    "title": "STEP 3",
+    "description": "On the plastic folder, draw a rectangle . as long as the tube and two and a half times as wide as the tube’s diameter. Draw lines to divide the rectangle into three equal parts. Draw a narrow tab on one side.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/406026593.jpg?zoom=2&fit=4968%2C3725&ssl=1"
+  },
+  {
+    "project_id": 10,
+    "title": "STEP 4",
+    "description": "Cut out the rectangle, then score along the three inside lines with the scissors, using the edge of the ruler. Fold along the scored lines to make a triangular prism. Stick down the tab with tape",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/408433016.jpg?zoom=2&fit=4968%2C3725&ssl=1"
+  },
+  {
+    "project_id": 10,
+    "title": "STEP 5",
+    "description": "Insert your prism into the cardboard tube, so that it rests against the paper circle at the end. It should fit snugly, but if not, use small pieces of tape to secure it in place.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/408433022.jpg?zoom=2&fit=4968%2C3725&ssl=1"
+  },
+  {
+    "project_id": 10,
+    "title": "STEP 6",
+    "description": "Place plastic wrap loosely over the open end of the tube, and stick it in place with tape. Now put some colored beads on top of the plastic wrap",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/408433034.jpg?zoom=2&fit=4968%2C3725&ssl=1"
+  },
+  {
+    "project_id": 10,
+    "title": "STEP 7",
+    "description": "Cut a circle of wax paper, wider than the tube. Place it over the beads, then cut slits in the edge of the paper and tape it to the tube.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/408433042.jpg?zoom=2&fit=4968%2C3725&ssl=1"
+  },
+  {
+    "project_id": 10,
+    "title": "STEP 8",
+    "description": "Decorate the tube, if you like. Now look through the hole in the paper circle. Point the tube toward a window or light and turn it around. Enjoy the show!",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/406026620.jpg?zoom=2&fit=4968%2C3725&ssl=1"
+  },
+  {
+    "project_id": 11,
+    "title": "STEP 1",
+    "description": "With an adult’s help, use the knife to make a cut in a lemon, about 1/2in (1cm) from the center, and roughly 3/4in (2cm) deep. Now push a coin firmly into the slit you have created. Do the same with the other four lemons. About 1/2 in (1 cm) from the center of the first lemon—on the other side to the coin—insert a galvanized screw. Twist it in, clockwise, to secure it in the lemon’s flesh. Now repeat with the other four lemons, then arrange the lemons in a circle.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/405625711.jpg?zoom=2&fit=4968%2C3725&ssl=1"
+  },
+  {
+    "project_id": 11,
+    "title": "STEP 2",
+    "description": "Squeeze the clip on one wire so that it opens, like a crocodile’s jaws. Place it around the screw in one lemon, so it grips it. Connect the other clip to the coin in another lemon.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/405625715.jpg?zoom=2&fit=4968%2C3725&ssl=1"
+  },
+  {
+    "project_id": 11,
+    "title": "STEP 3",
+    "description": "Connect all the lemons—coin to screw—as in step 3. For the last lemon, attach a wire to its coin, but don’t connect it to the screw in your first lemon. Instead, attach another wire to that screw.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/405625731.jpg?zoom=2&fit=4968%2C3725&ssl=1"
+  },
+  {
+    "project_id": 11,
+    "title": "STEP 4",
+    "description": "Each LED has two legs, which are slightly different lengths. With the free end of the wire that is attached to the coin, fix the clip to the slightly longer leg of the LED.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/405625735.jpg?zoom=2&fit=4968%2C3725&ssl=1"
+  },
+  {
+    "project_id": 11,
+    "title": "STEP 5",
+    "description": "Now connect the clip of the other free wire that is connected to the screw to the other, shorter leg of the LED. This now completes the circuit to make the LED light up.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/405625766_mainRT-1.jpg?zoom=2&fit=8280%2C5864&ssl=1"
+  },
+  {
+    "project_id": 12,
+    "title": "STEP 1",
+    "description": "If your paper is decorated, flip it over to work on the plain side.\n\nWith the pencil and ruler, draw two diagonal lines from corner to corner. Then measure three inches from each corner and mark that point on each line. Using scissors, cut along each diagonal line down to each mark. Going clockwise, label each pinwheel section lightly with a pencil as A, B, C, and D, as shown. You can erase the letters later.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/NewMM_234.png?zoom=2&fit=3662%2C3929&ssl=1"
+  },
+  {
+    "project_id": 12,
+    "title": "STEP 2",
+    "description": "Place a line of copper tape from the outside edge of section A to the outside edge of section D. Bend the tape in the center of the pinwheel, since the tape needs to be in one piece. Snip at the end. Repeat by placing a second line of copper tape along the outside edges of sections B and C. Don’t let the two lines of tape touch in the center of the pinwheel.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/NewMM_236.jpg?zoom=2&fit=3662%2C3929&ssl=1"
+  },
+  {
+    "project_id": 12,
+    "title": "STEP 3",
+    "description": "Using scissors, cut three scraps of cardstock, each about 1/4″ x 1/2″. These serve as “bridges” to keep crossing copper lines from touching (which would short out the circuit).\n\nUsing the hot-glue gun, glue one cardstock bridge on the D line near the center of the pinwheel, and glue a second cardstock bridge on the B line near the center of the pinwheel, as shown. (It’s okay to glue on top of the copper tape.) The bridges should completely cover the copper tape lines.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/NewMM_238.jpg?zoom=2&fit=3662%2C3929&ssl=1"
+  },
+  {
+    "project_id": 12,
+    "title": "STEP 4",
+    "description": "Place two more lines of copper tape; each should be about 1/4″ apart from the previous lines. Starting in section D, place one line of copper tape next to and along the inside edge of the previous line of tape, then continue over line D’s cardstock bridge and into section C, continuing to the edge of the pinwheel. Make sure the copper tape goes over the cardstock bridge and doesn’t touch the previous lines.\n\nRepeat with another line of copper tape and the remaining two sections. Starting in section B, place a line of copper tape next to and along the inside edge of the previous line of tape, continue over line B’s cardstock bridge, and go into section A to the edge of the pinwheel.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/NewMM_239.jpg?zoom=2&fit=3662%2C3929&ssl=1"
+  },
+  {
+    "project_id": 12,
+    "title": "STEP 5",
+    "description": "Using scissors, cut a piece of copper tape 8″ long. Lay about 2″ of it across the center of the pinwheel, so that it lays right on top of the negative (-) lead in section A and connects to the negative (-) lead in section B (the negative leads are the lines running under the bridges). With the remaining 6″ of copper tape, fold it over on itself to make a 3″ tab. Remember to stick the copper tape down tight to make a good connection.\n\nUsing the hot-glue gun, glue the third cardstock bridge at the base of the 3″ tab so that the bridge also covers the adjacent section of the negative (-) lead near the base of section C, as shown. The bridge must cover both the tab and the negative (-) lead.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/NewMM_241.jpg?zoom=2&fit=3299%2C3370&ssl=1"
+  },
+  {
+    "project_id": 12,
+    "title": "STEP 6",
+    "description": "Using scissors, cut a piece of copper tape 8″ long. Lay about 2″ of it across the center of the pinwheel, so that it lays right on top of the negative (-) lead in section A and connects to the negative (-) lead in section B (the negative leads are the lines running under the bridges). With the remaining 6″ of copper tape, fold it over on itself to make a 3″ tab. Remember to stick the copper tape down tight to make a good connection.\n\nUsing the hot-glue gun, glue the third cardstock bridge at the base of the 3″ tab so that the bridge also covers the adjacent section of the negative (-) lead near the base of section C, as shown. The bridge must cover both the tab and the negative (-) lead.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/NewMM_242.jpg?zoom=2&fit=3609%2C3622&ssl=1"
+  },
+  {
+    "project_id": 12,
+    "title": "STEP 7",
+    "description": "Using scissors, cut a piece of cardstock about 1″ x 3″ and fold it in half. Trace the battery on each side, marking one circle with a plus (+) sign and the other with a minus (-) sign, as shown. Using transparent tape, tape a neodymium magnet into the center of each circle (make sure the magnets attract!). The magnets will keep the battery in place, but allow you to remove it whenever you want.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/NewMM_243.jpg?zoom=2&fit=4134%2C3320&ssl=1"
+  },
+  {
+    "project_id": 12,
+    "title": "STEP 8",
+    "description": "Set the battery holder in the center of the pinwheel, negative (-) side down. Fold the copper tab from the negative (-) lead onto the negative (-) side of the battery holder, as shown (trim the tab as needed). Secure the tab with a small piece of copper tape. Then use transparent tape to secure the negative (-) side of the battery holder to the pinwheel.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/NewMM_244.jpg?zoom=2&fit=3522%2C3166&ssl=1"
+  },
+  {
+    "project_id": 12,
+    "title": "STEP 9",
+    "description": "Using scissors, cut three cardstock circles, each about 1″ in diameter. Using transparent tape, tape the third magnet to one circle, stick the pin of the pin clasp through the second (save the pin back), and leave the third plain.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/NewMM_249.jpg?zoom=2&fit=2314%2C2208&ssl=1"
+  },
+  {
+    "project_id": 12,
+    "title": "STEP 10",
+    "description": "Test the circle with the magnet to make sure the magnet attracts to the battery holder by placing the magnet side to the outside of the holder. If it doesn’t attract, reverse the battery on the circle. Then gently bend each unused corner of the pinwheel toward the center of the pinwheel, and with the hot-glue gun, glue each corner to the back of the circle with the magnet. Once the glue is dry, glue the plain circle on top to hide the assembly. Once done, the magnets will hold the pinwheel together, while still allowing access to the battery.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/NewMM_247.jpg?zoom=2&fit=3590%2C3280&ssl=1"
+  },
+  {
+    "project_id": 12,
+    "title": "STEP 11",
+    "description": "Once the pinwheel is assembled, place one circuit-sticker LED on each pinwheel blade so it connects the two copper-tape leads. The pointy, negative (-) side of each sticker goes on the outside edge of each blade; the fat, positive (+) side of each sticker goes on the inner line of copper tape.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/NewMM_248.jpg?zoom=2&fit=3692%2C3573&ssl=1"
+  },
+  {
+    "project_id": 12,
+    "title": "STEP 12",
+    "description": "Finally, using the hot-glue gun, glue the circle with the pin to the back of the pinwheel in the center. Poke the pin through the straw, and secure it with the pin back.",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/NewMM_252.jpg?zoom=2&fit=3587%2C4905&ssl=1"
+  },
+  {
+    "project_id": 13,
+    "title": "STEP 1",
+    "description": "Insert a piece of paper into the clipboard.\nUse a pencil to draw a star or other solid shape on the paper.\nDraw a thick, dark line from the shape to the paper’s edge.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/session2i11.jpg?fit=4272%2C2848&ssl=1"
+  },
+  {
+    "project_id": 13,
+    "title": "STEP 2",
+    "description": "Attach a wire from Earth on the MaKey MaKey to the metal clip on the clipboard.\nClip one of the wires from a MaKey MaKey port, such as the up arrow,to the end of the line you drew.",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/StartMakingTheClubhouseNetwork_0.2.jpg?fit=663%2C476&ssl=1"
+  },
+  {
+    "project_id": 13,
+    "title": "STEP 3",
+    "description": "Touch the metal clip with one hand, then touch the shape to hear the note play.\n\n* If the note doesn’t play, see the Troubleshooting Tips",
+    "photo_url": "https://i1.wp.com/makercamp.com/wp-content/uploads/2017/06/StartMakingTheClubhouseNetwork_1-1.jpg?fit=760%2C522&ssl=1"
+  },
+  {
+    "project_id": 13,
+    "title": "STEP 4",
+    "description": "Now draw more shapes so that you can attach each shape to one of the MaKey MaKey ports (the up, down, left, and right, arrows and Space).",
+    "photo_url": "https://i0.wp.com/makercamp.com/wp-content/uploads/2017/06/StartMakingTheClubhouseNetwork_2.jpg?fit=1613%2C936&ssl=1"
+  },
+  {
+    "project_id": 13,
+    "title": "STEP 5",
+    "description": "Now you can play your musical drawing.",
+    "photo_url": "https://i2.wp.com/makercamp.com/wp-content/uploads/2017/06/StartMakingTheClubhouseNetwork_3-1.jpg?fit=1610%2C883&ssl=1"
+  }
+]
+
+ProjectStep.create(project_steps)
+puts 'Finish creating project steps'
+
+
