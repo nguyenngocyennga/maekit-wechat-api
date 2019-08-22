@@ -18,8 +18,8 @@ makerspaces = [
     "address": "408-410 Bldg 4 3337 Hongmei Lu, near Huaguang Lu",
     "phone_number": "021-152 5195 0152",
     "description": "In just one year, KC Robot Lab has managed to amass over a hundred students, and offers courses in robotics, coding, laser cutting and 3D printing. Students from five to 16 years old learn the ins and outs of electronics, programming, engineering and more in the lab’s close-knit classrooms of no more than six students. The weekly classes are 1.5 hours per session, and though primarily taught in Mandarin, English-speaking tutors are available. Call to schedule a free trial class.",
-    "longtitude": 31.19613,
-    "latitude": 121.39124,
+    "latitude": 31.19613,
+    "longtitude": 121.39124,
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/fd48cbf76dabf4384d3a/makerspace_KC%20Robot%20Lab.jpg"
   },
   {
@@ -28,8 +28,8 @@ makerspaces = [
     "address": "14C Bldg 5 251 Caoxi Lu, near Longcao Lu",
     "phone_number": "021-400 873 7505",
     "description": "MOOCXING has been around since 2013 and focuses on robotics and programming for children seven to 18 years old. Students can learn coding languages like Python and C++, as well as gain experience working with 3D printers and robots. Class sizes are generally small and taught in Mandarin, though it’s possible to set up one-on-one classes in English depending on tutor availability. Call for price information or to schedule a 200RMB trial course.",
-    "longtitude": 31.3051,
-    "latitude": 121.52642,
+    "latitude": 31.3051,
+    "longtitude": 121.52642,
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/19ed2fc0cbead32af825/makerspace_MOOCXING.jpg"
   },
   {
@@ -38,8 +38,8 @@ makerspaces = [
     "address": "1806 2669 Xietu Lu, near Tianyaoqiao Lu",
     "phone_number": "021-400 093 5090",
     "description": "Join-in works with children between three to 12 years old. Students can learn to program robots and other gadgets here. Class sizes are small, with around three to six students each, and one-on-one tutoring available. Weekly courses range from one to three hours depending on the student’s age and classes are taught in Chinese with English-speaking tutors subject to availability. Classes are around 9,600 per year. Call to set up a free trial.",
-    "longtitude": 31.1922,
-    "latitude": 121.44872,
+    "latitude": 31.1922,
+    "longtitude": 121.44872,
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/a35b0f0881776a788359/makerspace_Join-in%20Youth%20Creative%20Lab.jpg"
   },
   {
@@ -48,8 +48,8 @@ makerspaces = [
     "address": "147-149 Area 3 168 Shangnan Lu, near Guozhan Lu",
     "phone_number": "021-5041 1077",
     "description": "This makerspace’s classes are divided into three categories: ‘Baby Science’, basic science for three year olds; ‘Hands-on Science’, general science classes for children four to 12 years old and ‘Programming’, basic robot programming courses for children seven to 12 years old. GAIA also hosts birthday parties, weekend activities and summer/winter camps. The weekly bilingual classes come in a 48-week package, last one-and-a-half hours each and are generally around 14 students per class. Call for price details or to schedule a free trial class.",
-    "longtitude": 31.18852,
-    "latitude": 121.49965,
+    "latitude": 31.18852,
+    "longtitude": 121.49965,
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/c76f57dc394dcc102645/makerspace_GAIA%20Space%20Center.jpg"
   },
   {
@@ -58,8 +58,8 @@ makerspaces = [
     "address": "Tongzilin South 6, Fangcaodi, block 7 unit 1 626",
     "phone_number": "028-69332553",
     "description": "Maker Innovation Center is running by makers from intel-swjtu makercenter, West Makerspace and XMaker School.\n This is an open lab for local diyer/maker/hacker/engineer/researcher.\n We are running a \"codes to things\" course project to help people to learn how to fabricate things.",
-    "longtitude": 30.6189,
-    "latitude": 104.07139,
+    "latitude": 30.6189,
+    "longtitude": 104.07139,
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/338608036c80c08976f5/makerspace_XMaker%20Innovation%20Center.jpg"
   },
   {
@@ -68,8 +68,8 @@ makerspaces = [
     "address": "4/F, block C, 144 Jiaoda Road, Jinniu District",
     "phone_number": "028-87601498",
     "description": "The SWJTU Makerspace is the first university makerspace in western China. It focuses on the industries regarding mechanical and electrical information, robotics, the Internet of Things, intelligent hardware, artificial intelligence and energy conservation.",
-    "longtitude": 30.69809,
-    "latitude": 104.03139,
+    "latitude": 30.69809,
+    "longtitude": 104.03139,
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/ded975da3c1bde269f3b/makerspace_SWJTU%20Makerspace.jpg"
   },
   {
@@ -78,8 +78,8 @@ makerspaces = [
     "address": "万瑞中心C座19楼 Wanrui Center, block C, 19th floor",
     "phone_number": "4001798315",
     "description": "This program is made for the young minds to create incubation center in their schools, colleges, institutes for long term learning.",
-    "longtitude": 30.62161,
-    "latitude": 104.07797,
+    "latitude": 30.62161,
+    "longtitude": 104.07797,
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/97963c5accd46adeaac0/makerspace_STEM%20Edu.jpg"
   },
   {
@@ -88,8 +88,8 @@ makerspaces = [
     "address": "Dashierlu, wankeyun community, nanshang zone",
     "phone_number": "0755-8671703",
     "description": "Chaihuo Maker Space was created and sponsored by Seeed Studio. As the first maker space in Shenzhen, Chaihuo has gathered a lot of DIY enthusiasts and entreprenuers, including SZDIY, the Android-loving group. IOS Party, Microsoft Club, SZHAM and Amateur Radio Group.",
-    "longtitude": 22.54613,
-    "latitude": 113.99932,
+    "latitude": 22.54613,
+    "longtitude": 113.99932,
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/da234e89760bf0881bb3/makerspace_Chai%20Huo%20X.factory.jpg"
   }
 ]
@@ -380,6 +380,24 @@ projects = [
     "description": "As a starter project, let’s make an interactive drawing that plays music when you touch it. Using a Makey Makey board and Scratch programming environment, you’ll explore and experiment with conductive and non-conductive materials and learn to code a simple computer program.",
     "preparation_time": "30 Minutes",
     "video_url": ""
+  },
+  {
+    "name": "Metal Flower",
+    "level": "ADVANCED ",
+    "category": "Metalshop",
+    "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/87069ba20c475ca30b2c/Metal%20Flower.jpg",
+    "tagline": "Metal Flower that last forever.",
+    "description": "Recycle leftover metal sheet into different types of flowers like Rose, Tulip or Daisy and give it to your mum or girlfriends. ",
+    "preparation_time": "30 Minutes"
+  },
+  {
+    "name": "Woodern Boomerang",
+    "level": "ADVANCED ",
+    "category": "Woodshop",
+    "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/c8fa3fe9538492aeaad9/Woodern%20Boomerang.jpg",
+    "tagline": "Homemake Boomerang from used furniture.",
+    "description": "Throw away furntiure reycled for a Homemake Boomerang and play with your friends or pets. ",
+    "preparation_time": "30 Minutes"
   }
 ]
 
@@ -964,6 +982,60 @@ project_steps = [
       "description": "Now you can play your musical drawing.",
       "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/b1ba08cbfac5be52e950/Make%20It%20Sing%20Step%205.jpg"
     }
+  ],
+  [
+    {
+      "title": "STEP 1",
+      "description": "Gather your sheet metal and measure, mark, and cut out three or more squares of metal. The size of the squares are up to you but they should ascend in size by about 1-1/2 to 2 inches each square you create.",
+      "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/db122262eb9365b9e899/Metal%20Flower%20Step%201.png"
+    },
+    {
+      "title": "STEP 2",
+      "description": "Use pinwheel to cut the circular pieces into flower petal shape and always based on four petal per square design. Ensure to then round off the edges of each petal, to avoid sharp edges. The goal is to have them look like actual flower petals so they do not all have to look exactly the same, a little difference between each petal will actually make the flower look more natural.",
+      "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/5cec858e20cf3e2c77b2/Metal%20Flower%20Step%202.png"
+    },
+    {
+      "title": "STEP 3",
+      "description": "Flatten out the metal petal shape and fasten the metal together with spot welder or to use pop rivets and machine screws and nuts. ",
+      "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/e85b85b4c7675e24959d/Metal%20Flower%20Step%203.png"
+    },
+    {
+      "title": "STEP 4",
+      "description": "By now the metal petals will all be attached together and and ensure you wear glove now and start to bend the metal into a flower using both nose pliers and slip joint pliers.  Repeat the step till it looks like a real flower",
+      "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/ba2ba892e8cdf62273c5/Metal%20Flower%20Step%204.png"
+    },
+    {
+      "title": "STEP 5",
+      "description": "Paint the flower",
+      "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/b92ca93edb9ae18e63d2/Metal%20Flower%20Step%205.png"
+    }
+  ],
+  [
+    {
+      "title": "STEP 1",
+      "description": "Cut out a Boomerang shape as per template to the maximum size that will fit on standard 8.5/11 paper, print, and cut out.",
+      "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/74b0c76b9525d4c7b101/Woodern%20Boomerang%20Step%201.jpg"
+    },
+    {
+      "title": "STEP 2",
+      "description": "Use a sharpie/pencil to trace around the cutout onto the project panel.",
+      "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/061126a806d5fe451084/Woodern%20Boomerang%20Step%202.jpg"
+    },
+    {
+      "title": "STEP 3",
+      "description": "Cut the rough outline of the boomerang out of the wood. This shape will be refined later, so don't worry if it isn't perfect at first. Begin filing on the edge that you have marked. Check the shape of the wing by viewing it from the wingtip. continue filing until it resembles the above images, and then repeat on each of the other wings.",
+      "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/15dd27a1da8840bcf83d/Woodern%20Boomerang%20Step%203.jpg"
+    },
+    {
+      "title": "STEP 4",
+      "description": "Sand with the coarse, medium, and fine grits in that order before using linseed oil. Rub a generous coating of the oil into the whole boomerang and let dry. Multiple coats can be used so do as many as you want, but one should be sufficient.",
+      "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/078dce60997b67569708/Woodern%20Boomerang%20Step%204.jpg"
+    },
+    {
+      "title": "STEP 5",
+      "description": "Ad a few layers of polyurethane to finish the boomerang. More than one layer should be used for added protection. If you want, paint or add designs with sharpie before finishing.",
+      "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/4e17a0ea9e66783d25b3/Woodern%20Boomerang%20Step%205.jpg"
+    }
   ]
 ]
 
@@ -1441,6 +1513,66 @@ materials = [
       "project_name": "Make it Sing",
       "name": "Non-conductive materials, such as plastic, electrical tape, and cardboard"
     }
+  ],
+  [
+    {
+      "project_name": "Metal Flower ",
+      "name": "Sheet Metal"
+    },
+    {
+      "project_name": "Metal Flower ",
+      "name": "Circular Object (Roll of Tape)"
+    },
+    {
+      "project_name": "Metal Flower ",
+      "name": "Pop Rivet"
+    },
+    {
+      "project_name": "Metal Flower ",
+      "name": "Paint"
+    }
+  ],
+  [
+    {
+      "project_name": "Woodern Boomerang",
+      "name": "Jigsaw "
+    },
+    {
+      "project_name": "Woodern Boomerang",
+      "name": "Files"
+    },
+    {
+      "project_name": "Woodern Boomerang",
+      "name": "Sandpaper"
+    },
+    {
+      "project_name": "Woodern Boomerang",
+      "name": "Scissors"
+    },
+    {
+      "project_name": "Woodern Boomerang",
+      "name": "Sharpie"
+    },
+    {
+      "project_name": "Woodern Boomerang",
+      "name": "1/4 inch Wood Piece"
+    },
+    {
+      "project_name": "Woodern Boomerang",
+      "name": "Linseed oil"
+    },
+    {
+      "project_name": "Woodern Boomerang",
+      "name": "Stain "
+    },
+    {
+      "project_name": "Woodern Boomerang",
+      "name": "Polyurethane"
+    },
+    {
+      "project_name": "Woodern Boomerang",
+      "name": "Shop Towels/Rags"
+    }
   ]
 ]
 
@@ -1452,11 +1584,11 @@ projects.each_with_index { |project, index|
     new_step.project = new_project
     new_step.save
   }
-  # materials[index].each { |material| 
-  #   new_material = Material.new(material)
-  #   new_material.project = new_project
-  #   new_material.save
-  # }
+  materials[index].each { |material| 
+    new_material = Material.new(material)
+    new_material.project = new_project
+    new_material.save
+  }
 }
 puts 'Finish creating projects'
 

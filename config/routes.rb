@@ -8,6 +8,7 @@ Rails.application.routes.draw do
       resources :equipments
       resources :projects do
         resources :project_steps, shallow: true
+        resources :materials, shallow: true
       end
     end
   end
