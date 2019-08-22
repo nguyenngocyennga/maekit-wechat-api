@@ -3,14 +3,16 @@ class Api::V1::BookingsController < Api::V1::BaseController
   
   before_action :set_booking, only: [:show, :update, :destroy]
   
-  before_action :get_user, only: [:index, :create]
+  before_action :get_user, only: [:create]
   
   before_action :get_project, only: [:create]
   
   before_action :get_makerspace, only: [:create]
   
   def index
+    @user = User.find(params[:user])
     @bookings = @user.bookings
+    # render json: { makerspace_name: @bookings[0].makerspace.name }
   end
   
   def show
@@ -27,6 +29,7 @@ class Api::V1::BookingsController < Api::V1::BaseController
       @user.save
       @makerspace.save
       @project.save
+      
     else
       render_error
     end
