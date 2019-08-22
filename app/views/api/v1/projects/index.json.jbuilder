@@ -6,5 +6,10 @@ json.projects do
         json.extract! project_step, :id, :title, :photo_url, :description, :project_id
       end
     end
+    json.materials do
+      json.array! @project.materials do |material|
+        json.extract! material, :id, :name
+      end
+    end
   end
 end

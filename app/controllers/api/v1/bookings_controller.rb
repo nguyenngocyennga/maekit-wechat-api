@@ -3,14 +3,14 @@ class Api::V1::BookingsController < Api::V1::BaseController
   
   before_action :set_booking, only: [:show, :update, :destroy]
   
-  before_action :get_user, only: [:create]
+  before_action :get_user, only: [:index, :create]
   
   before_action :get_project, only: [:create]
   
   before_action :get_makerspace, only: [:create]
   
   def index
-    @bookings = Booking.all
+    @bookings = @user.bookings
   end
   
   def show

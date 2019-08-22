@@ -117,126 +117,126 @@ equipments = [
     "description": "Prints out modeled parts designs from STL files",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/8c00b6e2557a8e913394/equipment_image3.jpeg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/8820227564ec10549c84/equipment_vid_Stratasys%203D%20Printers.mp4",
-    "author": "\nCimquest"
+    "author": "Cimquest"
   },
   {
     "name": "Photo Booth",
     "description": "Can be set up to take pictures of student projects at various stages",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/10515611d5044a8785ac/equipment_image4.jpeg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/516879fa51a083d3d68b/equipment_vid_Photo%20booth.mp4",
-    "author": "Mark Draper\n"
+    "author": "Mark Draper"
   },
   {
     "name": "Sewing Machine",
     "description": "Industrial grade sewing machine capable of sewing through tough materials",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/d702e68fa116d613301a/equipment_image5.jpeg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/8d3b7fe1244283be468a/equipment_vid_sewing%20machine.mp4",
-    "author": "GoldStarTool\n"
+    "author": "GoldStarTool"
   },
   {
     "name": "Drill Press",
     "description": "Makes holes through all types of wood and some thin sheets of metal",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/e2b57a060df5607fa9b1/equipment_image6.jpeg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/0541cf0ac60a3f77504d/equipment_vid_Drill%20Press.mp4",
-    "author": "WoodWorkWeb\n"
+    "author": "WoodWorkWeb"
   },
   {
     "name": "Power Drills",
     "description": "Hand drills which can also be used for securing and undoing screws",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/6a04d5202a1fe13c2de4/equipment_image7.jpeg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/491aa6a343c3dc8e6331/equipment_vid_Power%20drill.mp4",
-    "author": "\nApril Wilkerson\n"
+    "author": "April Wilkerson"
   },
   {
     "name": "AC/DC Power Supplies",
     "description": "Energy sources for DC voltages and currents",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/886e48c732dbc4e6804b/equipment_image8.jpeg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/58bb0bd86567999412d2/equipment_vid_Power%20Supply.mp4",
-    "author": "\nSparkFun Electronics\n"
+    "author": "SparkFun Electronics"
   },
   {
     "name": "Oscilloscopes",
     "description": "Observe waveforms created by electrical signals",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/f64d6c09d3e507bd3d72/equipment_image10.jpeg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/577c2af7f8e1680a4734/equipment_vid_Oscilloscope.mp4",
-    "author": "\nSparkFun Electronics\n"
+    "author": "SparkFun Electronics"
   },
   {
     "name": "Soldering Iron",
     "description": "For basic solder work",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/576982b908ae34babc25/equipment_image11.jpeg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/91d1cba62491478f6f8a/equipment_vid_Soldering%20Iron.mp4",
-    "author": "\nEllie Jay\n"
+    "author": "Ellie Jay"
   },
   {
     "name": "Function Generators",
     "description": "Generates common electrical waveforms over a range of frequencies",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/3f041f92e916e0b3ef19/equipment_image12.jpeg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/aee2332c892b3caef678/equipment_vid_Function%20Generator.mp4",
-    "author": "Afrotechmods\n"
+    "author": "Afrotechmods"
   },
   {
     "name": "Helping Arms",
     "description": "Facilitates work with small components. E.g. mini circuit boards",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/e955cb6f6ebc4f423a29/equipment_image13.jpeg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/ad9c2b3a9c5277127a6d/equipment_vid_Helping%20Hands.mp4",
-    "author": "Banggood video\n"
+    "author": "Banggood video"
   },
   {
     "name": "Heat Gun",
     "description": "Provides heat for warming thermoplastics, activating adhesives, shrinking heat sensitive tubing, etc",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/704a2af95d1c18d6c79f/equipment_image14.jpeg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/04355a389a8b1d9e453b/equipment_vid_Heat%20Gun.mp4",
-    "author": "Flat Rate Master\n"
+    "author": "Flat Rate Master"
   },
   {
     "name": "Hot Wire Foam Cutter",
     "description": "Can be used to cut out shapes from foam\n\n",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/0fb8a9f209600bd3e9f8/equipment_image15.jpeg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/508495a236773ec64dbe/equipment_vid_Hot%20wire%20foam%20cutter.mp4",
-    "author": "\nDave's Model Workshop\n"
+    "author": "Dave's Model Workshop"
   },
   {
     "name": "Bandsaw",
     "description": "Used for cutting wood and plastic",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/dbe92b4ced3678545673/equipment_image20.jpeg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/d0134794cb23c681dde7/equipment_vid_Bandsaw.mp4",
-    "author": "Howcast\n"
+    "author": "Howcast"
   },
   {
     "name": "Electronics Kits",
     "description": "Contain commonly used circuit building components and measuring instruments",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/5d1fad8706359ecb3297/equipment_image19.jpeg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/c7b6814b049aa9823ae2/equipment_vid_Electronics%20kits.mp4",
-    "author": "Make it mech\n"
+    "author": "Make it mech"
   },
   {
     "name": "Vinyl Cutter",
     "description": "Used for cutting the selection of vinyls provided in the makerspace",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/985ce0dba791b1aabbc4/equipment_8275.jpg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/0ff932e690eec2954930/equipment_vid_Vinyl%20Cutter.mp4",
-    "author": "SHS Tech Ed How To\n"
+    "author": "SHS Tech Ed How To"
   },
   {
     "name": "Pressure Chamber",
     "description": "Equipment used to push air bubble out of different materials. This allows users to create high quality prototypes.",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/659ca869bc9a6e08d4ad/equipment_2264.jpg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/9e440ec9930a8b8a7180/equipment_vid_Pressure%20Chamber.mp4",
-    "author": "Hapcoweb\n"
+    "author": "Hapcoweb"
   },
   {
     "name": "Vacuum Former",
     "description": "Equipment used for making molds and forms out of thick, durable thermoplastics",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/6cacf33e4aeea57dfccb/equipment_3984.jpg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/91f0b8db7f354d74bd86/equipment_vid_Vacuum%20Former.mp4",
-    "author": "\nFormech\n"
+    "author": "Formech"
   },
   {
     "name": "Vacuum Chamber",
     "description": "Used for the first stage of removing air out of a material, prior to using the pressure chamber.",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/18d34bdff3ec52e71924/equipment_0508.jpg",
     "video_url": "http://lc-bchaxov0.cn-n1.lcfile.com/2ab1d64cf796930495df/equipment_vid_Vacuum%20Chamber.mp4",
-    "author": "\nJim Overton - Jimson's Stuff\n"
+    "author": "Jim Overton - Jimson's Stuff"
   },
   {
     "name": "Hand Tools",
@@ -258,7 +258,8 @@ projects = [
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/4053e87ad9ccead8f3c5/Hero%20Helmet.jpg",
     "tagline": "No knight would be ready for battle without a helmet.",
     "description": "No knight would be ready for battle without a helmet. Make your own protective headgear, complete with a visor, faceguard, and feather plume. Or, if knights are too old-fashioned, whip up a superhero mask or racing helmet.",
-    "preparation_time": "2 Hours"
+    "preparation_time": "2 Hours",
+    "video_url": ""
   },
   {
     "name": "Dome Den",
@@ -267,88 +268,8 @@ projects = [
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/675474c84fa55a4e4b80/Dome%20Den.jpg",
     "tagline": "Hide away in the special dome-shaped den.",
     "description": "Have hours of fun playing outdoors or just relax and hide away in this special dome-shaped den. Once you've built your den, you can be as creative as you like when you decorate it. Paint the tiles in bold colors to make striking patterns, or even turn your den into a space base, woodland hideout, or igloo!",
-    "preparation_time": "2 Days"
-  },
-  {
-    "name": "Cardboard Prototypes",
-    "level": "BEGINNER",
-    "category": "Arts & Crafts",
-    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/b8d255a9855664bf1694/Cardboard%20Prototype.jpg",
-    "tagline": "Build a cardboard prototype for a Spider-Man-themed box",
-    "description": "Learn how to build a cardboard prototype for a Spider-Man-themed box. It’s fun to figure out the fixes and challenges for creating simple items with cardboard instead of using 3D printing or other expensive and time-consuming processes. What will you use your box for? We’ve created one to hold our Post-It notes, but you could build a prototype box for your IoT Telegraph that will send secret Spider-Man messages. (Or you could just use it to hold Post-It notes.)",
-    "preparation_time": "15 Minutes"
-  },
-  {
-    "name": "Colorful Comic Kaleidoscope",
-    "level": "BEGINNER",
-    "category": "Arts & Crafts",
-    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/9ad2be16748c56765ba4/Colorful%20Comic%20Kaleidoscope.png",
-    "tagline": "Make a built-in illumination kalaidoscope.",
-    "description": "Make a kaleidoscope to bathe a black and white Spider-Man comic in colorful light. Ordinary kaleidoscopes need ambient light to work: you view it by pointing it toward a light source. This one has built-in illumination so you can hold it right up against a printed page. The special RGB LED has a color-changing feature that continuously cycles through a rainbow of colors, making viewing black and white comics a trippy treat!",
-    "preparation_time": "2 Hours"
-  },
-  {
-    "name": "Dazzling Kaleidoscope",
-    "level": "BEGINNER",
-    "category": "Arts & Crafts",
-    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/e35d3b573fdca298fa3a/Dazzling%20Kaleidoscope.jpg",
-    "tagline": "See the world through your own colorful kaleidoscope.",
-    "description": "A cardboard tube from a roll of paper towels is the perfect size for your kaleidoscope. Inside the tube, you need three reflective surfaces—this can be made from a plastic document folder. However, if you can find it, mirrored paper also works well. When your kaleidoscope is finished, look through it and point it toward a lamp or out of the window. But remember to never point the tube directly at the sun, because you could damage your eyes.",
-    "preparation_time": "30 Minutes"
-  },
-  {
-    "name": "Glowing Pinwheel",
-    "level": "ADVANCED",
-    "category": "Arts & Crafts",
-    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/0b561e387e36147be217/Glowing%20Pinwheel.jpg",
-    "tagline": "A DIY pinwheel is fun anytime, but this one creates great patterns of spinning, sparkling light.",
-    "description": "A DIY pinwheel is fun anytime, but this one creates great patterns of spinning, sparkling light.",
-    "preparation_time": "30 Minutes"
-  },
-  {
-    "name": "Make it Sing",
-    "level": "ADVANCED",
-    "category": "Arts & Crafts",
-    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/477da028a8d562e8d2ae/Make%20It%20Sing.jpg",
-    "tagline": "An interactive drawing that plays music when you touch it.",
-    "description": "As a starter project, let’s make an interactive drawing that plays music when you touch it. Using a Makey Makey board and Scratch programming environment, you’ll explore and experiment with conductive and non-conductive materials and learn to code a simple computer program.",
-    "preparation_time": "30 Minutes"
-  },
-  {
-    "name": "Secret Light Up Ring",
-    "level": "INTERMEDIATE",
-    "category": "Electronics",
-    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/48def6d49817cbb99ec8/LED%20Ring.png",
-    "tagline": "Discover electromagnets in everyday life with this inductive LED ring!",
-    "description": "Discover electromagnets in everyday life with this inductive LED ring!",
-    "preparation_time": "1 Day"
-  },
-  {
-    "name": "Wired Up Stiationery",
-    "level": "BEGINNER",
-    "category": "Electronics",
-    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/27465491ea0076a23ccc/Wired%20Up%20Stationery%20-%20Main%20Page.jpg",
-    "tagline": "Learn how to wire up simple circuits, with stationery.",
-    "description": "Learn how to wire up simple circuits, with stationery.",
-    "preparation_time": "2 Hours"
-  },
-  {
-    "name": "Penny-Powered Flashlight",
-    "level": "BEGINNER",
-    "category": "Electronics",
-    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/701e7cf1566b4f539629/Penny%20Powered%20Flashlight.jpeg",
-    "tagline": "Power a flashlight with pennies so you can signal Spider-Man when you’re in need!",
-    "description": "Power a flashlight with pennies so you can signal Spider-Man when you’re in need! No store-bought batteries necessary. Build the flashlight with an LED and a few other household supplies, and make your own power source with coins and cardboard.\n",
-    "preparation_time": "30 Minutes"
-  },
-  {
-    "name": "Lemon Battery",
-    "level": "BEGINNER",
-    "category": "Electronics",
-    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/160c9d1d7ae880e9f5ce/Lemon%20Battery.jpg",
-    "tagline": "Did you know that you can make a battery using lemons?",
-    "description": "Did you know that you can make a battery using lemons? With just five lemons, some coins, screws, and copper wire, you can make an electric current flow around a circuit with enough energy to illuminate a small lamp called a light emitting diode (LED). Now just imagine what you could power with one hundred lemons!",
-    "preparation_time": "15 Minutes"
+    "preparation_time": "2 Days",
+    "video_url": ""
   },
   {
     "name": "IoT Telegraph",
@@ -357,7 +278,28 @@ projects = [
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/c454c404a84cc1d0adaa/Iot%20Telegraph.jpg",
     "tagline": "Make a Morse code device to send top-secret messages.",
     "description": "Make a Morse code device to send top-secret messages. Take the simplicity of a physical Morse key, add a Raspberry Pi — an inexpensive web-connectable board that fits in a project box — to connect to the Internet and start sending messages. You’ll solder and hook up a sensor, so get ready for a great challenge!",
-    "preparation_time": "3-8 Hours"
+    "preparation_time": "3-8 Hours",
+    "video_url": ""
+  },
+  {
+    "name": "Cardboard Prototypes",
+    "level": "BEGINNER",
+    "category": "Arts & Crafts",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/b8d255a9855664bf1694/Cardboard%20Prototype.jpg",
+    "tagline": "Build a cardboard prototype for a Spider-Man-themed box",
+    "description": "Learn how to build a cardboard prototype for a Spider-Man-themed box. It’s fun to figure out the fixes and challenges for creating simple items with cardboard instead of using 3D printing or other expensive and time-consuming processes. What will you use your box for? We’ve created one to hold our Post-It notes, but you could build a prototype box for your IoT Telegraph that will send secret Spider-Man messages. (Or you could just use it to hold Post-It notes.)",
+    "preparation_time": "15 Minutes",
+    "video_url": ""
+  },
+  {
+    "name": "Secret Light Up Ring",
+    "level": "INTERMEDIATE",
+    "category": "Electronics",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/48def6d49817cbb99ec8/LED%20Ring.png",
+    "tagline": "Discover electromagnets in everyday life with this inductive LED ring!",
+    "description": "Discover electromagnets in everyday life with this inductive LED ring!",
+    "preparation_time": "1 Day",
+    "video_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/275ed16caedebc97d767/How%20To%20Make%20an%20Inductive%20LED%20Ring.mp4"
   },
   {
     "name": "Sew LED Torch",
@@ -366,7 +308,78 @@ projects = [
     "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/d970e5b297e18d09f1c5/Sew%20LED%20Torch.png",
     "tagline": "Lights up after bedtime  with this Textile LED Torch Light.",
     "description": "Lights up after bedtime  with this Textile LED Torch Light.",
-    "preparation_time": "2 Hours"
+    "preparation_time": "2 Hours",
+    "video_url": ""
+  },
+  {
+    "name": "Wired Up Stiationery",
+    "level": "BEGINNER",
+    "category": "Electronics",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/27465491ea0076a23ccc/Wired%20Up%20Stationery%20-%20Main%20Page.jpg",
+    "tagline": "Learn how to wire up simple circuits, with stationery.",
+    "description": "Learn how to wire up simple circuits, with stationery.",
+    "preparation_time": "2 Hours",
+    "video_url": ""
+  },
+  {
+    "name": "Penny-Powered Flashlight",
+    "level": "BEGINNER",
+    "category": "Electronics",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/701e7cf1566b4f539629/Penny%20Powered%20Flashlight.jpeg",
+    "tagline": "Power a flashlight with pennies so you can signal Spider-Man when you’re in need!",
+    "description": "Power a flashlight with pennies so you can signal Spider-Man when you’re in need! No store-bought batteries necessary. Build the flashlight with an LED and a few other household supplies, and make your own power source with coins and cardboard.\n",
+    "preparation_time": "30 Minutes",
+    "video_url": ""
+  },
+  {
+    "name": "Colorful Comic Kaleidoscope",
+    "level": "BEGINNER",
+    "category": "Arts & Crafts",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/9ad2be16748c56765ba4/Colorful%20Comic%20Kaleidoscope.png",
+    "tagline": "Make a built-in illumination kalaidoscope.",
+    "description": "Make a kaleidoscope to bathe a black and white Spider-Man comic in colorful light. Ordinary kaleidoscopes need ambient light to work: you view it by pointing it toward a light source. This one has built-in illumination so you can hold it right up against a printed page. The special RGB LED has a color-changing feature that continuously cycles through a rainbow of colors, making viewing black and white comics a trippy treat!",
+    "preparation_time": "2 Hours",
+    "video_url": ""
+  },
+  {
+    "name": "Dazzling Kaleidoscope",
+    "level": "BEGINNER",
+    "category": "Arts & Crafts",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/e35d3b573fdca298fa3a/Dazzling%20Kaleidoscope.jpg",
+    "tagline": "See the world through your own colorful kaleidoscope.",
+    "description": "A cardboard tube from a roll of paper towels is the perfect size for your kaleidoscope. Inside the tube, you need three reflective surfaces—this can be made from a plastic document folder. However, if you can find it, mirrored paper also works well. When your kaleidoscope is finished, look through it and point it toward a lamp or out of the window. But remember to never point the tube directly at the sun, because you could damage your eyes.",
+    "preparation_time": "30 Minutes",
+    "video_url": ""
+  },
+  {
+    "name": "Lemon Battery",
+    "level": "BEGINNER",
+    "category": "Electronics",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/160c9d1d7ae880e9f5ce/Lemon%20Battery.jpg",
+    "tagline": "Did you know that you can make a battery using lemons?",
+    "description": "Did you know that you can make a battery using lemons? With just five lemons, some coins, screws, and copper wire, you can make an electric current flow around a circuit with enough energy to illuminate a small lamp called a light emitting diode (LED). Now just imagine what you could power with one hundred lemons!",
+    "preparation_time": "15 Minutes",
+    "video_url": ""
+  },
+  {
+    "name": "Glowing Pinwheel",
+    "level": "ADVANCED",
+    "category": "Arts & Crafts",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/0b561e387e36147be217/Glowing%20Pinwheel.jpg",
+    "tagline": "A DIY pinwheel is fun anytime, but this one creates great patterns of spinning, sparkling light.",
+    "description": "A DIY pinwheel is fun anytime, but this one creates great patterns of spinning, sparkling light.",
+    "preparation_time": "30 Minutes",
+    "video_url": ""
+  },
+  {
+    "name": "Make it Sing",
+    "level": "ADVANCED",
+    "category": "Arts & Crafts",
+    "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/477da028a8d562e8d2ae/Make%20It%20Sing.jpg",
+    "tagline": "An interactive drawing that plays music when you touch it.",
+    "description": "As a starter project, let’s make an interactive drawing that plays music when you touch it. Using a Makey Makey board and Scratch programming environment, you’ll explore and experiment with conductive and non-conductive materials and learn to code a simple computer program.",
+    "preparation_time": "30 Minutes",
+    "video_url": ""
   }
 ]
 
@@ -560,7 +573,7 @@ project_steps = [
       "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/0c894950a4cd2559bea7/Dome%20Den%20Step%2022.jpg"
     }
   ],
-  [
+  [  
     {
       "title": "STEP 1",
       "description": "The simplest way to get the telegraph code set up on your Pi is to use the pre-packed disk image. Download and unzip the disk image. The disk image includes the Raspbian operating system, so it will take a few minutes to download. (For advanced options, or to install the telegraph client manually, check the instructions in the GitHub repository).",
@@ -928,12 +941,12 @@ project_steps = [
   [
     {
       "title": "STEP 1",
-      "description": "Insert a piece of paper into the clipboard.\nUse a pencil to draw a star or other solid shape on the paper.\nDraw a thick, dark line from the shape to the paper’s edge.",
+      "description": "Insert a piece of paper into the clipboard.\n\nUse a pencil to draw a star or other solid shape on the paper.\n\nDraw a thick, dark line from the shape to the paper’s edge.",
       "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/edf74aaf977043ab7c2e/Make%20It%20Sing%20Step%201.jpg"
     },
     {
       "title": "STEP 2",
-      "description": "Attach a wire from Earth on the MaKey MaKey to the metal clip on the clipboard.\nClip one of the wires from a MaKey MaKey port, such as the up arrow,to the end of the line you drew.",
+      "description": "Attach a wire from Earth on the MaKey MaKey to the metal clip on the clipboard.\n\nClip one of the wires from a MaKey MaKey port, such as the up arrow,to the end of the line you drew.",
       "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/f575ada90972f83b0b11/Make%20It%20Sing%20Step%202.jpg"
     },
     {
@@ -954,6 +967,483 @@ project_steps = [
   ]
 ]
 
+materials = [
+  [
+    {
+      "project_name": "Hero’s Helmet",
+      "name": "Cardboard sheets"
+    },
+    {
+      "project_name": "Hero’s Helmet",
+      "name": "Strong tape"
+    },
+    {
+      "project_name": "Hero’s Helmet",
+      "name": "Scissors"
+    },
+    {
+      "project_name": "Hero’s Helmet",
+      "name": "Pencil"
+    },
+    {
+      "project_name": "Hero’s Helmet",
+      "name": "Paints"
+    },
+    {
+      "project_name": "Hero’s Helmet",
+      "name": "Paintbrushes"
+    }
+  ],
+  [
+    {
+      "project_name": "Dome Den",
+      "name": "Cardboard sheets"
+    },
+    {
+      "project_name": "Dome Den",
+      "name": "Ruler"
+    },
+    {
+      "project_name": "Dome Den",
+      "name": "Scissors"
+    },
+    {
+      "project_name": "Dome Den",
+      "name": "Pencil"
+    },
+    {
+      "project_name": "Dome Den",
+      "name": "Strong Tape"
+    },
+    {
+      "project_name": "Dome Den",
+      "name": "Paints"
+    },
+    {
+      "project_name": "Dome Den",
+      "name": "Paintbrushes"
+    }
+  ],
+  [
+    {
+      "project_name": "IoT Telegraph",
+      "name": "Raspberry Pi Zero W"
+    },
+    {
+      "project_name": "IoT Telegraph",
+      "name": "Arcade button switch"
+    },
+    {
+      "project_name": "IoT Telegraph",
+      "name": "Piezo buzzer"
+    },
+    {
+      "project_name": "IoT Telegraph",
+      "name": "Enclosure"
+    },
+    {
+      "project_name": "IoT Telegraph",
+      "name": "Soldering iron and solder"
+    },
+    {
+      "project_name": "IoT Telegraph",
+      "name": "Heat-shrink tubing"
+    },
+    {
+      "project_name": "IoT Telegraph",
+      "name": "JST connector leads, 12\" female 2-pin (2)"
+    },
+    {
+      "project_name": "IoT Telegraph",
+      "name": "MicroSD card reader"
+    },
+    {
+      "project_name": "IoT Telegraph",
+      "name": "Hot glue"
+    }
+  ],
+  [
+    {
+      "project_name": "Cardboard Prototypes",
+      "name": "Scrap cardboard"
+    },
+    {
+      "project_name": "Cardboard Prototypes",
+      "name": "Paper"
+    },
+    {
+      "project_name": "Cardboard Prototypes",
+      "name": "Pencil"
+    },
+    {
+      "project_name": "Cardboard Prototypes",
+      "name": "Ruler"
+    },
+    {
+      "project_name": "Cardboard Prototypes",
+      "name": "Box cutter or scissors"
+    },
+    {
+      "project_name": "Cardboard Prototypes",
+      "name": "Hot glue gun and glue"
+    }
+  ],
+  [
+    {
+      "project_name": "Secret Light Up Ring",
+      "name": "LED 3mm (1)"
+    },
+    {
+      "project_name": "Secret Light Up Ring",
+      "name": "Wrapping Wire, Coated, 30G, ( about 3 feet)"
+    },
+    {
+      "project_name": "Secret Light Up Ring",
+      "name": "Epoxy Resin"
+    },
+    {
+      "project_name": "Secret Light Up Ring",
+      "name": "Silicone Ring Mold (1)"
+    },
+    {
+      "project_name": "Secret Light Up Ring",
+      "name": "Soldering Iron/solder"
+    },
+    {
+      "project_name": "Secret Light Up Ring",
+      "name": "Wireless charger, Chi pad or phone with and NFC reader for testing the LED ring"
+    }
+  ],
+  [
+    {
+      "project_name": "Sew LED Torch",
+      "name": "Felt"
+    },
+    {
+      "project_name": "Sew LED Torch",
+      "name": "Needles"
+    },
+    {
+      "project_name": "Sew LED Torch",
+      "name": "Conductive thread"
+    },
+    {
+      "project_name": "Sew LED Torch",
+      "name": "Regular thread"
+    },
+    {
+      "project_name": "Sew LED Torch",
+      "name": "LilyPad sewable LEDs (see lilypadarduino.org or order directly from sparkfun.com/products/10899)"
+    },
+    {
+      "project_name": "Sew LED Torch",
+      "name": "LilyTiny"
+    },
+    {
+      "project_name": "Sew LED Torch",
+      "name": "LilyPad sewable battery holder"
+    },
+    {
+      "project_name": "Sew LED Torch",
+      "name": "Coin batteries, 3V (such as the CR2032)"
+    },
+    {
+      "project_name": "Sew LED Torch",
+      "name": "Alligator clips (optional)"
+    }
+  ],
+  [
+    {
+      "project_name": "Wired Up Stationery",
+      "name": "Scrappy Clips "
+    },
+    {
+      "project_name": "Wired Up Stationery",
+      "name": "Paper Clips"
+    },
+    {
+      "project_name": "Wired Up Stationery",
+      "name": "3V Coin Cell Battery"
+    },
+    {
+      "project_name": "Wired Up Stationery",
+      "name": "LED 3mm (1)"
+    },
+    {
+      "project_name": "Wired Up Stationery",
+      "name": "Aluminium Fold "
+    },
+    {
+      "project_name": "Wired Up Stationery",
+      "name": "Transparent Tape"
+    }
+  ],
+  [
+    {
+      "project_name": "Penny-Powered Flashlight",
+      "name": "7 pennies, made in 1983 or later"
+    },
+    {
+      "project_name": "Penny-Powered Flashlight",
+      "name": "Scrap cardboard, about 6\" square"
+    },
+    {
+      "project_name": "Penny-Powered Flashlight",
+      "name": "Paper towels"
+    },
+    {
+      "project_name": "Penny-Powered Flashlight",
+      "name": "Paper or plastic cup"
+    },
+    {
+      "project_name": "Penny-Powered Flashlight",
+      "name": "Vinegar"
+    },
+    {
+      "project_name": "Penny-Powered Flashlight",
+      "name": "Duct tape, 5\" piece"
+    },
+    {
+      "project_name": "Penny-Powered Flashlight",
+      "name": "LED, red"
+    },
+    {
+      "project_name": "Penny-Powered Flashlight",
+      "name": "Medium- or fine-grit sandpaper"
+    },
+    {
+      "project_name": "Penny-Powered Flashlight",
+      "name": "Scissors"
+    },
+    {
+      "project_name": "Penny-Powered Flashlight",
+      "name": "Pencil"
+    },
+    {
+      "project_name": "Penny-Powered Flashlight",
+      "name": "Safety glasses"
+    }
+  ],
+  [
+    {
+      "project_name": "Colorful Comic Kaleidoscope",
+      "name": "Paper towel tube"
+    },
+    {
+      "project_name": "Colorful Comic Kaleidoscope",
+      "name": "Scrap foam"
+    },
+    {
+      "project_name": "Colorful Comic Kaleidoscope",
+      "name": "Black ABS plastic sheet, enough for three strips, about 6\" × 8\""
+    },
+    {
+      "project_name": "Colorful Comic Kaleidoscope",
+      "name": "Tricolor RGB LED"
+    },
+    {
+      "project_name": "Colorful Comic Kaleidoscope",
+      "name": "SPST switch"
+    },
+    {
+      "project_name": "Colorful Comic Kaleidoscope",
+      "name": "Hook-up wire"
+    },
+    {
+      "project_name": "Colorful Comic Kaleidoscope",
+      "name": "CR2032 3V button cell battery"
+    },
+    {
+      "project_name": "Colorful Comic Kaleidoscope",
+      "name": "Battery clip for button cell"
+    },
+    {
+      "project_name": "Colorful Comic Kaleidoscope",
+      "name": "Compass"
+    },
+    {
+      "project_name": "Colorful Comic Kaleidoscope",
+      "name": "Hobby knife"
+    },
+    {
+      "project_name": "Colorful Comic Kaleidoscope",
+      "name": "Solder iron and solder"
+    },
+    {
+      "project_name": "Colorful Comic Kaleidoscope",
+      "name": "3/4\" and 1/16\" drill bit and drill"
+    },
+    {
+      "project_name": "Colorful Comic Kaleidoscope",
+      "name": "Spider-Man comic"
+    },
+    {
+      "project_name": "Colorful Comic Kaleidoscope",
+      "name": "Super glue"
+    },
+    {
+      "project_name": "Colorful Comic Kaleidoscope",
+      "name": "Electrical tape"
+    }
+  ],
+  [
+    {
+      "project_name": "Dazzling Kaleidoscope",
+      "name": "Pencil"
+    },
+    {
+      "project_name": "Dazzling Kaleidoscope",
+      "name": "Scissors"
+    },
+    {
+      "project_name": "Dazzling Kaleidoscope",
+      "name": "Masking tape"
+    },
+    {
+      "project_name": "Dazzling Kaleidoscope",
+      "name": "Colored beads"
+    },
+    {
+      "project_name": "Dazzling Kaleidoscope",
+      "name": "Colored paper"
+    },
+    {
+      "project_name": "Dazzling Kaleidoscope",
+      "name": "Cardboard tube"
+    },
+    {
+      "project_name": "Dazzling Kaleidoscope",
+      "name": "Clear plastic folder"
+    },
+    {
+      "project_name": "Dazzling Kaleidoscope",
+      "name": "Ruler"
+    },
+    {
+      "project_name": "Dazzling Kaleidoscope",
+      "name": "Plastic wrap"
+    },
+    {
+      "project_name": "Dazzling Kaleidoscope",
+      "name": "Wax paper"
+    }
+  ],
+  [
+    {
+      "project_name": "Lemon Battery",
+      "name": "5 lemons"
+    },
+    {
+      "project_name": "Lemon Battery",
+      "name": "6 short electrical wires with clips at each end"
+    },
+    {
+      "project_name": "Lemon Battery",
+      "name": "5 copper coins"
+    },
+    {
+      "project_name": "Lemon Battery",
+      "name": "Sharp knife"
+    },
+    {
+      "project_name": "Lemon Battery",
+      "name": "5 galvanized screws"
+    },
+    {
+      "project_name": "Lemon Battery",
+      "name": "LEDs (at least one color)"
+    }
+  ],
+  [
+    {
+      "project_name": "Glowing Pinwheel",
+      "name": "One 6\" x 6\" square of origami paper, construction paper, or similar"
+    },
+    {
+      "project_name": "Glowing Pinwheel",
+      "name": "Copper tape"
+    },
+    {
+      "project_name": "Glowing Pinwheel",
+      "name": "Cardstock scraps"
+    },
+    {
+      "project_name": "Glowing Pinwheel",
+      "name": "One 3V coin-cell battery (CR2032)"
+    },
+    {
+      "project_name": "Glowing Pinwheel",
+      "name": "Transparent tape"
+    },
+    {
+      "project_name": "Glowing Pinwheel",
+      "name": "Three small neodymium magnets"
+    },
+    {
+      "project_name": "Glowing Pinwheel",
+      "name": "Pin clasp with back"
+    },
+    {
+      "project_name": "Glowing Pinwheel",
+      "name": "Four circuit-sticker LEDs (your choice)"
+    },
+    {
+      "project_name": "Glowing Pinwheel",
+      "name": "Sturdy plastic straw"
+    },
+    {
+      "project_name": "Glowing Pinwheel",
+      "name": "Pencil"
+    },
+    {
+      "project_name": "Glowing Pinwheel",
+      "name": "Ruler"
+    },
+    {
+      "project_name": "Glowing Pinwheel",
+      "name": "Scissors"
+    },
+    {
+      "project_name": "Glowing Pinwheel",
+      "name": "Hot-glue gun and glue sticks"
+    }
+  ],
+  [
+    {
+      "project_name": "Make it Sing",
+      "name": "MaKey MaKey kits, which include a circuit board, alligator clips, and a USB cable, are available at makeymakey.com."
+    },
+    {
+      "project_name": "Make it Sing",
+      "name": "Computers with Scratch. You can use the online version of Scratch at scratch.mit.edu or download and install the offline editor from scratch.mit. edu/scratch2download."
+    },
+    {
+      "project_name": "Make it Sing",
+      "name": "Scratch piano project:scratch.mit.edu/makeypiano"
+    },
+    {
+      "project_name": "Make it Sing",
+      "name": "Clipboards with metal clips"
+    },
+    {
+      "project_name": "Make it Sing",
+      "name": "Pencils, #2 or softer (graphite, not color)"
+    },
+    {
+      "project_name": "Make it Sing",
+      "name": "Blank paper"
+    },
+    {
+      "project_name": "Make it Sing",
+      "name": "Conductive materials, such as bananas, apple slices, gum drops, or other moist foods; Play-Doh or other waterbed clays; aluminum foil, spoons, copper tape, or other metal objects"
+    },
+    {
+      "project_name": "Make it Sing",
+      "name": "Non-conductive materials, such as plastic, electrical tape, and cardboard"
+    }
+  ]
+]
+
 
 projects.each_with_index { |project, index|
   new_project = Project.create(project)
@@ -962,4 +1452,14 @@ projects.each_with_index { |project, index|
     new_step.project = new_project
     new_step.save
   }
+  # materials[index].each { |material| 
+  #   new_material = Material.new(material)
+  #   new_material.project = new_project
+  #   new_material.save
+  # }
 }
+puts 'Finish creating projects'
+
+puts 'Finish creating materials'
+
+puts 'Finish creating steps'
