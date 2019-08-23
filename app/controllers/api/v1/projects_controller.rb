@@ -1,10 +1,17 @@
 class Api::V1::ProjectsController < Api::V1::BaseController
   skip_before_action :verify_authenticity_token, only: [:create, :update, :destroy]
   
-  before_action :get_project, only: [:show, :update, :destroy]
+  before_action :get_project, only: [:show, :category, :update, :destroy]
   
   def index
-    @projects = Project.all
+    @category = params[:query]  
+    if @category
+      puts "-------------query"
+      @projects = Project.where(category: @category)  
+    else
+      puts "--------------#{params}"
+      @projects = Project.all
+    end
   end
   
   def show

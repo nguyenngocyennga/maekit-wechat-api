@@ -254,47 +254,48 @@ projects = [
   {
     "name": "Hero’s Helmet",
     "level": "BEGINNER",
-    "category": "Arts & Crafts",
+    "category_text": "ARTS & CRAFTS",
+    "category": "artsandcrafts",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/4053e87ad9ccead8f3c5/Hero%20Helmet.jpg",
     "tagline": "No knight would be ready for battle without a helmet.",
     "description": "No knight would be ready for battle without a helmet. Make your own protective headgear, complete with a visor, faceguard, and feather plume. Or, if knights are too old-fashioned, whip up a superhero mask or racing helmet.",
-    "preparation_time": "2 Hours",
-    "video_url": ""
+    "preparation_time": "2 Hours"
   },
   {
     "name": "Dome Den",
     "level": "INTERMEDIATE",
-    "category": "Arts & Crafts",
+    "category_text": "ARTS & CRAFTS",
+    "category": "artsandcrafts",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/675474c84fa55a4e4b80/Dome%20Den.jpg",
     "tagline": "Hide away in the special dome-shaped den.",
     "description": "Have hours of fun playing outdoors or just relax and hide away in this special dome-shaped den. Once you've built your den, you can be as creative as you like when you decorate it. Paint the tiles in bold colors to make striking patterns, or even turn your den into a space base, woodland hideout, or igloo!",
-    "preparation_time": "2 Days",
-    "video_url": ""
+    "preparation_time": "2 Days"
   },
   {
     "name": "IoT Telegraph",
     "level": "ADVANCED",
-    "category": "Programming",
+    "category_text": "PROGRAMMING",
+    "category": "programming",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/c454c404a84cc1d0adaa/Iot%20Telegraph.jpg",
     "tagline": "Make a Morse code device to send top-secret messages.",
     "description": "Make a Morse code device to send top-secret messages. Take the simplicity of a physical Morse key, add a Raspberry Pi — an inexpensive web-connectable board that fits in a project box — to connect to the Internet and start sending messages. You’ll solder and hook up a sensor, so get ready for a great challenge!",
-    "preparation_time": "3-8 Hours",
-    "video_url": ""
+    "preparation_time": "3-8 Hours"
   },
   {
     "name": "Cardboard Prototypes",
     "level": "BEGINNER",
-    "category": "Arts & Crafts",
+    "category_text": "ARTS & CRAFTS",
+    "category": "artsandcrafts",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/b8d255a9855664bf1694/Cardboard%20Prototype.jpg",
     "tagline": "Build a cardboard prototype for a Spider-Man-themed box",
     "description": "Learn how to build a cardboard prototype for a Spider-Man-themed box. It’s fun to figure out the fixes and challenges for creating simple items with cardboard instead of using 3D printing or other expensive and time-consuming processes. What will you use your box for? We’ve created one to hold our Post-It notes, but you could build a prototype box for your IoT Telegraph that will send secret Spider-Man messages. (Or you could just use it to hold Post-It notes.)",
-    "preparation_time": "15 Minutes",
-    "video_url": ""
+    "preparation_time": "15 Minutes"
   },
   {
     "name": "Secret Light Up Ring",
     "level": "INTERMEDIATE",
-    "category": "Electronics",
+    "category_text": "ELECTRONICS",
+    "category": "electronics",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/48def6d49817cbb99ec8/LED%20Ring.png",
     "tagline": "Discover electromagnets in everyday life with this inductive LED ring!",
     "description": "Discover electromagnets in everyday life with this inductive LED ring!",
@@ -304,87 +305,88 @@ projects = [
   {
     "name": "Sew LED Torch",
     "level": "BEGINNER",
-    "category": "Textile",
+    "category_text": "TEXTILE",
+    "category": "textile",
     "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/d970e5b297e18d09f1c5/Sew%20LED%20Torch.png",
     "tagline": "Lights up after bedtime  with this Textile LED Torch Light.",
     "description": "Lights up after bedtime  with this Textile LED Torch Light.",
-    "preparation_time": "2 Hours",
-    "video_url": ""
+    "preparation_time": "2 Hours"
   },
   {
     "name": "Wired Up Stiationery",
     "level": "BEGINNER",
-    "category": "Electronics",
+    "category_text": "ELECTRONICS",
+    "category": "electronics",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/27465491ea0076a23ccc/Wired%20Up%20Stationery%20-%20Main%20Page.jpg",
     "tagline": "Learn how to wire up simple circuits, with stationery.",
     "description": "Learn how to wire up simple circuits, with stationery.",
-    "preparation_time": "2 Hours",
-    "video_url": ""
+    "preparation_time": "2 Hours"
   },
   {
     "name": "Penny-Powered Flashlight",
     "level": "BEGINNER",
-    "category": "Electronics",
+    "category_text": "ELECTRONICS",
+    "category": "electronics",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/701e7cf1566b4f539629/Penny%20Powered%20Flashlight.jpeg",
     "tagline": "Power a flashlight with pennies so you can signal Spider-Man when you’re in need!",
     "description": "Power a flashlight with pennies so you can signal Spider-Man when you’re in need! No store-bought batteries necessary. Build the flashlight with an LED and a few other household supplies, and make your own power source with coins and cardboard.\n",
-    "preparation_time": "30 Minutes",
-    "video_url": ""
+    "preparation_time": "30 Minutes"
   },
   {
     "name": "Colorful Comic Kaleidoscope",
     "level": "BEGINNER",
-    "category": "Arts & Crafts",
+    "category_text": "ARTS & CRAFTS",
+    "category": "artsandcrafts",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/9ad2be16748c56765ba4/Colorful%20Comic%20Kaleidoscope.png",
     "tagline": "Make a built-in illumination kalaidoscope.",
     "description": "Make a kaleidoscope to bathe a black and white Spider-Man comic in colorful light. Ordinary kaleidoscopes need ambient light to work: you view it by pointing it toward a light source. This one has built-in illumination so you can hold it right up against a printed page. The special RGB LED has a color-changing feature that continuously cycles through a rainbow of colors, making viewing black and white comics a trippy treat!",
-    "preparation_time": "2 Hours",
-    "video_url": ""
+    "preparation_time": "2 Hours"
   },
   {
     "name": "Dazzling Kaleidoscope",
     "level": "BEGINNER",
-    "category": "Arts & Crafts",
+    "category_text": "ARTS & CRAFTS",
+    "category": "artsandcrafts",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/e35d3b573fdca298fa3a/Dazzling%20Kaleidoscope.jpg",
     "tagline": "See the world through your own colorful kaleidoscope.",
     "description": "A cardboard tube from a roll of paper towels is the perfect size for your kaleidoscope. Inside the tube, you need three reflective surfaces—this can be made from a plastic document folder. However, if you can find it, mirrored paper also works well. When your kaleidoscope is finished, look through it and point it toward a lamp or out of the window. But remember to never point the tube directly at the sun, because you could damage your eyes.",
-    "preparation_time": "30 Minutes",
-    "video_url": ""
+    "preparation_time": "30 Minutes"
   },
   {
     "name": "Lemon Battery",
     "level": "BEGINNER",
-    "category": "Electronics",
+    "category_text": "ELECTRONICS",
+    "category": "electronics",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/160c9d1d7ae880e9f5ce/Lemon%20Battery.jpg",
     "tagline": "Did you know that you can make a battery using lemons?",
     "description": "Did you know that you can make a battery using lemons? With just five lemons, some coins, screws, and copper wire, you can make an electric current flow around a circuit with enough energy to illuminate a small lamp called a light emitting diode (LED). Now just imagine what you could power with one hundred lemons!",
-    "preparation_time": "15 Minutes",
-    "video_url": ""
+    "preparation_time": "15 Minutes"
   },
   {
     "name": "Glowing Pinwheel",
     "level": "ADVANCED",
-    "category": "Arts & Crafts",
+    "category_text": "ARTS & CRAFTS",
+    "category": "artsandcrafts",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/0b561e387e36147be217/Glowing%20Pinwheel.jpg",
     "tagline": "A DIY pinwheel is fun anytime, but this one creates great patterns of spinning, sparkling light.",
     "description": "A DIY pinwheel is fun anytime, but this one creates great patterns of spinning, sparkling light.",
-    "preparation_time": "30 Minutes",
-    "video_url": ""
+    "preparation_time": "30 Minutes"
   },
   {
     "name": "Make it Sing",
     "level": "ADVANCED",
-    "category": "Arts & Crafts",
+    "category_text": "ARTS & CRAFTS",
+    "category": "artsandcrafts",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/477da028a8d562e8d2ae/Make%20It%20Sing.jpg",
     "tagline": "An interactive drawing that plays music when you touch it.",
     "description": "As a starter project, let’s make an interactive drawing that plays music when you touch it. Using a Makey Makey board and Scratch programming environment, you’ll explore and experiment with conductive and non-conductive materials and learn to code a simple computer program.",
-    "preparation_time": "30 Minutes",
-    "video_url": ""
+    "preparation_time": "30 Minutes"
   },
   {
     "name": "Metal Flower",
     "level": "ADVANCED ",
-    "category": "Metalshop",
+    "category_text": "METALSHOP",
+    "category": "metalshop",
     "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/87069ba20c475ca30b2c/Metal%20Flower.jpg",
     "tagline": "Metal Flower that last forever.",
     "description": "Recycle leftover metal sheet into different types of flowers like Rose, Tulip or Daisy and give it to your mum or girlfriends. ",
@@ -393,7 +395,8 @@ projects = [
   {
     "name": "Woodern Boomerang",
     "level": "ADVANCED ",
-    "category": "Woodshop",
+    "category_text": "WOODSHOP",
+    "category": "woodshop",
     "photo_url": "http://lc-BChAXOV0.cn-n1.lcfile.com/c8fa3fe9538492aeaad9/Woodern%20Boomerang.jpg",
     "tagline": "Homemake Boomerang from used furniture.",
     "description": "Throw away furntiure reycled for a Homemake Boomerang and play with your friends or pets. ",
