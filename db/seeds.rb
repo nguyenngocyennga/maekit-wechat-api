@@ -99,6 +99,7 @@ puts 'Finish creating makerspace'
 
 equipments = [
   {
+    "scan": "impulsesealer",
     "name": "Impulse Sealer",
     "description": "Equipment that can be used to create water-tight seals on TPU Nylon fabric and similar materials",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/98bd1ba15a7ddab5a64f/equipment_image1.jpeg",
@@ -106,6 +107,7 @@ equipments = [
     "author": "Blue Heeler's Model & Toy Steam Engine Room"
   },
   {
+    "scan": "shearpress",
     "name": "Shear Press, Brake and Slip Roll",
     "description": "Used to bend, cut, curve, etc. sheet metal",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/0d6e5b1106b5a6c68558/equipment_image2.jpeg",
@@ -113,6 +115,7 @@ equipments = [
     "author": "Technopack Corporation"
   },
   {
+    "scan": "strata3dprinter",
     "name": "StrataSys 3D Printers",
     "description": "Prints out modeled parts designs from STL files",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/8c00b6e2557a8e913394/equipment_image3.jpeg",
@@ -120,6 +123,7 @@ equipments = [
     "author": "Cimquest"
   },
   {
+    "scan": "photobooth",
     "name": "Photo Booth",
     "description": "Can be set up to take pictures of student projects at various stages",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/10515611d5044a8785ac/equipment_image4.jpeg",
@@ -127,6 +131,7 @@ equipments = [
     "author": "Mark Draper"
   },
   {
+    "scan": "sewingmachine",
     "name": "Sewing Machine",
     "description": "Industrial grade sewing machine capable of sewing through tough materials",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/d702e68fa116d613301a/equipment_image5.jpeg",
@@ -134,6 +139,7 @@ equipments = [
     "author": "GoldStarTool"
   },
   {
+    "scan": "drillpress",
     "name": "Drill Press",
     "description": "Makes holes through all types of wood and some thin sheets of metal",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/e2b57a060df5607fa9b1/equipment_image6.jpeg",
@@ -141,6 +147,7 @@ equipments = [
     "author": "WoodWorkWeb"
   },
   {
+    "scan": "powerdrill",
     "name": "Power Drills",
     "description": "Hand drills which can also be used for securing and undoing screws",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/6a04d5202a1fe13c2de4/equipment_image7.jpeg",
@@ -148,6 +155,7 @@ equipments = [
     "author": "April Wilkerson"
   },
   {
+    "scan": "powersupplies",
     "name": "AC/DC Power Supplies",
     "description": "Energy sources for DC voltages and currents",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/886e48c732dbc4e6804b/equipment_image8.jpeg",
@@ -155,6 +163,7 @@ equipments = [
     "author": "SparkFun Electronics"
   },
   {
+    "scan": "oscilloscopes",
     "name": "Oscilloscopes",
     "description": "Observe waveforms created by electrical signals",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/f64d6c09d3e507bd3d72/equipment_image10.jpeg",
@@ -162,6 +171,7 @@ equipments = [
     "author": "SparkFun Electronics"
   },
   {
+    "scan": "solderingiron",
     "name": "Soldering Iron",
     "description": "For basic solder work",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/576982b908ae34babc25/equipment_image11.jpeg",
@@ -169,6 +179,7 @@ equipments = [
     "author": "Ellie Jay"
   },
   {
+    "scan": "functiongenerator",
     "name": "Function Generators",
     "description": "Generates common electrical waveforms over a range of frequencies",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/3f041f92e916e0b3ef19/equipment_image12.jpeg",
@@ -176,6 +187,7 @@ equipments = [
     "author": "Afrotechmods"
   },
   {
+    "scan": "helpingarms",
     "name": "Helping Arms",
     "description": "Facilitates work with small components. E.g. mini circuit boards",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/e955cb6f6ebc4f423a29/equipment_image13.jpeg",
@@ -183,6 +195,7 @@ equipments = [
     "author": "Banggood video"
   },
   {
+    "scan": "heatgun",
     "name": "Heat Gun",
     "description": "Provides heat for warming thermoplastics, activating adhesives, shrinking heat sensitive tubing, etc",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/704a2af95d1c18d6c79f/equipment_image14.jpeg",
@@ -190,6 +203,7 @@ equipments = [
     "author": "Flat Rate Master"
   },
   {
+    "scan": "hotwirefoamcutter",
     "name": "Hot Wire Foam Cutter",
     "description": "Can be used to cut out shapes from foam\n\n",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/0fb8a9f209600bd3e9f8/equipment_image15.jpeg",
@@ -197,6 +211,7 @@ equipments = [
     "author": "Dave's Model Workshop"
   },
   {
+    "scan": "bandsaw",
     "name": "Bandsaw",
     "description": "Used for cutting wood and plastic",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/dbe92b4ced3678545673/equipment_image20.jpeg",
@@ -204,6 +219,7 @@ equipments = [
     "author": "Howcast"
   },
   {
+    "scan": "electronicskits",
     "name": "Electronics Kits",
     "description": "Contain commonly used circuit building components and measuring instruments",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/5d1fad8706359ecb3297/equipment_image19.jpeg",
@@ -211,6 +227,7 @@ equipments = [
     "author": "Make it mech"
   },
   {
+    "scan": "vinylcutter",
     "name": "Vinyl Cutter",
     "description": "Used for cutting the selection of vinyls provided in the makerspace",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/985ce0dba791b1aabbc4/equipment_8275.jpg",
@@ -218,6 +235,7 @@ equipments = [
     "author": "SHS Tech Ed How To"
   },
   {
+    "scan": "pressurechamber",
     "name": "Pressure Chamber",
     "description": "Equipment used to push air bubble out of different materials. This allows users to create high quality prototypes.",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/659ca869bc9a6e08d4ad/equipment_2264.jpg",
@@ -225,6 +243,7 @@ equipments = [
     "author": "Hapcoweb"
   },
   {
+    "scan": "vacuumformer",
     "name": "Vacuum Former",
     "description": "Equipment used for making molds and forms out of thick, durable thermoplastics",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/6cacf33e4aeea57dfccb/equipment_3984.jpg",
@@ -232,6 +251,7 @@ equipments = [
     "author": "Formech"
   },
   {
+    "scan": "vacuumchamber",
     "name": "Vacuum Chamber",
     "description": "Used for the first stage of removing air out of a material, prior to using the pressure chamber.",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/18d34bdff3ec52e71924/equipment_0508.jpg",
@@ -239,6 +259,7 @@ equipments = [
     "author": "Jim Overton - Jimson's Stuff"
   },
   {
+    "scan": "handtools",
     "name": "Hand Tools",
     "description": "Spanners, Screw Drivers, Tape Measure, Clamps, etc.",
     "photo_url": "http://lc-bchaxov0.cn-n1.lcfile.com/22554300af8673220d0d/equipment_image18.jpeg",
